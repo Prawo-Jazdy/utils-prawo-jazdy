@@ -1,0 +1,3837 @@
+[
+  {
+    "id": 106,
+    "questionNumber": 1144,
+    "question": {
+      "de": "Erfordert die Verhaltensweise des Fußgängers in der dargestellten Situation, dass man die Hupe benutzt?",
+      "eng": "Does the behaviour of the pedestrian require you to use the horn?",
+      "pl": "Czy w tej sytuacji zachowanie pieszego wymaga, abyś użył sygnału dźwiękowego?",
+      "ua": "Чи поведінка пішохода у цій ситуації вимагає від Вас застосування звукового сигналу?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "099011fb56.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 26 ust. 1\nart. 29 ust. 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 29 ust. 1 w zw.z Art. 26 ust.1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym(Dz. U. z 2012 r. poz. 1137 ze zm.)"
+  },
+  {
+    "id": 111,
+    "questionNumber": 1157,
+    "question": {
+      "de": "Sie lenken ein Fahrzeug in geschlossener Ortschaft. Ist es in dieser Situation verboten, die Hupe zu benutzen?",
+      "eng": "You are driving a vehicle in the built-up area. Is it prohibited in the presented situation to use the horn?",
+      "pl": "Kierujesz pojazdem na obszarze zabudowanym. Czy w tej sytuacji użycie sygnału dźwiękowego jest zabronione?",
+      "ua": "Ви керуєте транспортним засобом у населеному пункті. Чи заборонено в цій ситуації застосовувати звуковий сигнал?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "89f78343ef.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 29 ust. 1 i ust. 2 pkt 2"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 29 ust.1 i ust.2 pkt.2 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz.U. z 2005 r. Nr 108, poz. 908, z późn. zm.)"
+  },
+  {
+    "id": 130,
+    "questionNumber": 1319,
+    "question": {
+      "de": "Hat man in der dargestellten Situation die Pflicht, das Abblendlicht oder das Tagesfahrlicht zu benutzen?",
+      "eng": "Are you obliged in this situation to use the low beam lights or daytime running lights?",
+      "pl": "Czy w tej sytuacji masz obowiązek używać świateł mijania lub świateł do jazdy dziennej?",
+      "ua": "Чи зобов'язані Ви в цій ситуації мати увімкнене ближнє світло фар або денні ходові вогні?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "066d3a9d0f.mp4",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 51 ust. 1 i 2"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 51 ust. 1 i 2 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz.U. z 2012 r. poz. 1137 i 1448)"
+  },
+  {
+    "id": 131,
+    "questionNumber": 1323,
+    "question": {
+      "de": "Darf man bei verminderter Luftdurchsichtigkeit mit Tagesfahrlicht fahren?",
+      "eng": "Are you allowed to drive with the daytime running lights on in decreased air clarity?",
+      "pl": "Czy w warunkach zmniejszonej przejrzystości powietrza wolno Ci jechać z włączonymi światłami do jazdy dziennej?",
+      "ua": "Чи можна рухатися з увімкненими денними ходовими вогнями в умовах недостатньої прозорості повітря?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "1507ea1870.mp4",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 30 ust. 1 pkt 1 lit. a"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 30 ust. 1 pkt 1) lit. a) ustawy z 20 czerwca 1997 roku Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 ze zm.)."
+  },
+  {
+    "id": 199,
+    "questionNumber": 1558,
+    "question": {
+      "de": "Darf man in dieser Situation das Fahrzeug mit eingeschaltetem Fernlicht lenken?",
+      "eng": "Can you drive your vehicle in such conditions with the fog lights switched on?",
+      "pl": "Czy w tej sytuacji wolno Ci jechać pojazdem z włączonymi światłami przeciwmgłowymi?",
+      "ua": "Чи в цій ситуації Вам дозволяється керувати транспортним засобом з увімкненими протитуманними фарами?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "db4abc561b.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 51 ust. 1 \nart. 30 ust. 1 pkt 1 lit a"
+        ]
+      }
+    ],
+    "additionalDescription": "Art 51 ust.1 w zw. z Art. 30 ust.1 pkt.1)a) ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym(Dz. U. z 2012 r. poz. 1137 ze zm.)"
+  },
+  {
+    "id": 244,
+    "questionNumber": 1770,
+    "question": {
+      "de": "Darf man  in der dargestellten Situation Tonsignal benutzen, um den Fahradfahrer darüber zu informieren, dass wir die Absicht haben, ihn zu überholen?",
+      "eng": "Should you use the horn in the presented situation, in order to warn the cyclist of your intention to overtake?",
+      "pl": "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego, by uprzedzić rowerzystę, że zamierzasz go wyprzedzić?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "6831606959.mp4",
+    "categories": [
+      "C",
+      "D",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 281,
+    "questionNumber": 2212,
+    "question": {
+      "de": "Darf man in der dargestellten Situation das Warntonsignal benutzen?",
+      "eng": "Are you allowed in this situation to use a warning sound signal?",
+      "pl": "Czy w tej sytuacji wolno Ci użyć ostrzegawczego sygnału dźwiękowego?",
+      "ua": "Чи у цій ситуації Вам дозволяється застосувати попереджувальний звуковий сигнал?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "0107eb67a3.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 4\nart. 29 ust. 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 29 ust. 1 w zw. z art. 4 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz.U. z 2005 r. Nr 108, poz. 908, z późn. zm.)"
+  },
+  {
+    "id": 558,
+    "questionNumber": 3363,
+    "question": {
+      "de": "Ist es in dieser Situation begründet, den Schallsignal mehrmals zu benutzen, statt das Fahrzeug anzuhalten?",
+      "eng": "Is it reasonable to use the horn repeatedly instead of stopping the vehicle?",
+      "pl": "Czy w tej sytuacji masz prawo kilkukrotnie użyć sygnału dźwiękowego, zamiast zatrzymać pojazd?",
+      "ua": "Чи можна в цій ситуації застосувати звуковий сигнал кілька разів замість зупинки транспортного засобу?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "aacb7b9fa8.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 29 ust. 1\nart. 26 ust. 7"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 29 ust. 1 w zw.z art. 26 ust. 7 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz.U. z 2005 r. Nr 108, poz. 908, z późn. zm.)"
+  },
+  {
+    "id": 560,
+    "questionNumber": 3366,
+    "question": {
+      "de": "Darf man in der dargestellten Situation das Tonsignal  benutzen?",
+      "eng": "Is it allowed to use a sound signal in this situation?",
+      "pl": "Czy w tej sytuacji dozwolone jest użycie sygnału dźwiękowego?",
+      "ua": "Чи дозволено використання звукового сигналу в цій ситуації?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "2b218d64b4.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 25 ust. 2 i ust. 3\nart. 29 ust. 1"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 25 ust. 3 ustawy z 20 czerwca 1997 roku Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 ze zm.)"
+  },
+  {
+    "id": 623,
+    "questionNumber": 3544,
+    "question": {
+      "de": "Ist in dieser Situation beim Fahrzeuglenken Abblendlicht zu benutzen?",
+      "eng": "Are you obliged to use the low-beam lights in this situation?",
+      "pl": "Czy w tej sytuacji masz obowiązek używać świateł mijania?",
+      "ua": "Чи зобов'язані Ви використовувати ближнє світло в цій ситуації?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "5c83769cdb.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 51 ust. 1"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 51 ust. 1 ustawy z 20 czerwca 1997 roku Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 ze zm.)"
+  },
+  {
+    "id": 663,
+    "questionNumber": 3653,
+    "question": {
+      "de": "Darf  man das Tonsignal benutzen, wenn dieses Fahrzeug beginnt, die Fahrspur zu wechseln, während du grade dabei bist, das Überholmanöver auszuführen?",
+      "eng": "Can you use the horn if the presented vehicle starts to change the lane while you are overtaking?",
+      "pl": "Czy wyprzedzając masz prawo użyć sygnału dźwiękowego, jeżeli widoczny pojazd rozpocznie zmianę pasa ruchu?",
+      "ua": "Чи дозволено Вам сигналити під час обгону, якщо транспортний засіб, який Ви бачите, починає змінювати смугу руху?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "db4abc561b.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 29 ust. 1 i ust. 2 pkt 2"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 29 ust. 1 i ust. 2 pkt 2 - ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz.U. z 2012 r. poz. 1137 i 1448)"
+  },
+  {
+    "id": 664,
+    "questionNumber": 3655,
+    "question": {
+      "de": "Darf man in der dargestellten Situation mit eingeschaltem Vordernebellicht fahren?",
+      "eng": "Are you allowed in this situation to drive with the front fog lights on?",
+      "pl": "Czy w przedstawionej sytuacji wolno Ci poruszać się z włączonymi przednimi światłami przeciwmgłowymi?",
+      "ua": "Чи в представленій ситуації дозволено Вам їхати з увімкненими передніми протитуманними фарами?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "0bad461556.jpg",
+    "categories": [
+      "B",
+      "C",
+      "D",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 51 ust. 1 i ust. 5"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 51 ust. 1 i 5 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz.U. z 2012 r. poz. 1137, z późn zm.)"
+  },
+  {
+    "id": 688,
+    "questionNumber": 3729,
+    "question": {
+      "de": "Hat man in der dargestellten Situation beim Motorradparken auf der Fahrbahn die Pflicht, das Begrenzungslicht oder Standlicht einzuschalten?",
+      "eng": "Are you obliged in this situation, when parking the motorcycle on the roadway, to switch on the position lights or parking lights?",
+      "pl": " Czy w tej sytuacji, parkując motocykl na jezdni, masz obowiązek włączyć światła pozycyjne lub postojowe?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "fe8ba36a8d.jpg",
+    "categories": [
+      "A",
+      "A1",
+      "A2"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 689,
+    "questionNumber": 3730,
+    "question": {
+      "de": "Hat man in der dargestellten Situation beim Busparken auf der Fahrbahn das Begrenzungs- oder Standlicht einzuschalten?",
+      "eng": "When parking a bus on the roadway in this situation, are you obliged to switch on the position lights or parking lights?",
+      "pl": "Czy w tej sytuacji, parkując autobusem na jezdni, masz obowiązek włączyć światła pozycyjne lub postojowe?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "81d4d02b2f.jpg",
+    "categories": [
+      "D",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 690,
+    "questionNumber": 3731,
+    "question": {
+      "de": "Hat man in der dargestellten Situation beim Parken auf der Straße die Pflicht, Begrenzungslicht oder Standlicht einzuschalten?",
+      "eng": "When parking on the road in this situation, are you obliged to switch on the position lights or parking lights?",
+      "pl": "Czy w tej sytuacji, parkując na drodze, masz obowiązek włączyć światła pozycyjne lub postojowe?",
+      "ua": "Чи зобов’язані Ви в даній ситуації, при паркуванні на дорозі, вмикати габаритні або стоянкові вогні?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "4464b51583.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 52 ust. 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 52 ust. 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz.U. z 2012 r. poz. 1137, z późn zm.)"
+  },
+  {
+    "id": 691,
+    "questionNumber": 3732,
+    "question": {
+      "de": "Hat man in der dargestellten Situation, beim Parken mit einem LKW auf der Straße die Pflicht, das Begrenzugs- oder Standlicht einzuschalten?",
+      "eng": "When parking a lorry on the road in this situation, are you obliged to switch on the position lights or parking lights?",
+      "pl": "Czy w tej sytuacji, parkując samochodem ciężarowym na drodze, masz obowiązek włączyć światła pozycyjne lub postojowe?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "f01e80e746.jpg",
+    "categories": [
+      "C",
+      "C1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 891,
+    "questionNumber": 4242,
+    "question": {
+      "de": "Darf man in der dargestellten Situation, nach dem Umfahren des Fahrzeugs, das Abblendlicht zum Fernlicht umschalten?",
+      "eng": "After passing the vehicle in this situation, are you allowed to change the low beam lights into high beam lights?",
+      "pl": "Czy w tej sytuacji po wyminięciu pojazdu masz prawo zmienić światła mijania na drogowe?",
+      "ua": "Чи у цій ситуації, після того, як Ви розминулися зі зустрічним транспортним засобом, Ви можете змінити ближнє світло фар на дальнє?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "d8d6288a59.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 51 ust. 3 pkt 1 i pkt 2"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 51 ust. 3 ustawy z 20 czerwca 1997 roku Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 ze zm.)"
+  },
+  {
+    "id": 892,
+    "questionNumber": 4243,
+    "question": {
+      "de": "Darf man in dieser Situation beim Lenken eines Motorfahrzeuges ausschließlich Begrenzungslicht benutzen?",
+      "eng": "When driving a motor vehicle in these conditions, are you allowed to use position lights only?",
+      "pl": "Czy w tej sytuacji, kierując pojazdem samochodowym, wolno Ci używac wyłącznie świateł pozycyjnych?.",
+      "ua": "Чи в цій ситуації, під час керування автомобілем, Вам дозволяється вмикати лише габаритні вогні?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "db4abc561b.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 51 ust. 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art 51 ust.1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz.U. z 2005 r. Nr 108, poz. 908, z późn. zm.)"
+  },
+  {
+    "id": 907,
+    "questionNumber": 4354,
+    "question": {
+      "de": "Darf man in dieser Situation das Fahrzeug mit eingeschaltetem Fernlicht lenken?",
+      "eng": "Are you allowed in this situation to drive a vehicle with high-beam lights switched on?",
+      "pl": "Czy w tej sytuacji masz prawo jechać z włączonymi światłami drogowymi?",
+      "ua": "Чи у цій ситуації Вам дозволяється їхати з увімкненим дальнім світлом фар?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "070d2f01ef.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 51 ust. 1 i ust. 2"
+        ]
+      }
+    ],
+    "additionalDescription": "Art.51 ust. 1 i 2 ustawy prawo o ruchu drogowym Dz.U. z 2012 roku poz.1137 z póżn. zm."
+  },
+  {
+    "id": 934,
+    "questionNumber": 4395,
+    "question": {
+      "de": "Darf man in dieser Situation mit eingeschaltetem Fernlicht fahren?",
+      "eng": "Can you drive with high-beam lights switched on in this situation?",
+      "pl": "Czy w tej sytuacji masz prawo jechać z włączonymi światłami drogowymi?",
+      "ua": "Чи у цій ситуації Ви маєте право їхати з увімкненим дальнім світлом фар?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "659f2ac090.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 51 ust. 1"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 51 ust. 1 ustawy z 20 czerwca 1997 roku Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 ze zm.)"
+  },
+  {
+    "id": 935,
+    "questionNumber": 4396,
+    "question": {
+      "de": "Darf man in der dargestellten Situation statt Abblendlicht Tagfahrlicht benutzen?",
+      "eng": "Are you allowed in this situation to use daytime running lights instead of low beam lights?",
+      "pl": "Czy w tej sytuacji zamiast świateł mijania wolno Ci używać świateł do jazdy dziennej?",
+      "ua": "Чи дозволено Вам у цій ситуації увімкнути денні ходові вогні замість ближнього світла фар?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "64a26ac3ca.mp4",
+    "categories": [
+      "B",
+      "C",
+      "D",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 51 ust. 2"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 51.2 Ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz.U. z 2012 r. poz. 1137, z późn zm.)"
+  },
+  {
+    "id": 1143,
+    "questionNumber": 6211,
+    "question": {
+      "de": "Dürfen Sie Tagfahrlicht nutzen, wenn Sie nach der Abenddämmerung auf einer gut beleuchteten Straße fahren?",
+      "eng": "Can you use daytime lights while driving after dusk on a well-lit road?",
+      "pl": "Czy masz prawo używać świateł do jazdy dziennej, gdy jedziesz po zmierzchu dobrze oświetloną drogą?",
+      "ua": "Чи дозволяється застосовувати денні ходові вогні під час руху по добре освітленій дорозі в сутінках?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "005107826f.mp4",
+    "categories": [
+      "B",
+      "C",
+      "D",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 3 ust. 1\nart. 51 ust. 1 i ust. 2"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 3 ust. 1 oraz art. 51 ust. 1 i 2 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1144,
+    "questionNumber": 6213,
+    "question": {
+      "de": "Dürfen Sie in dieser Situation Fernlicht benutzen?",
+      "eng": "In this situation, can you use high-beam lights?",
+      "pl": "Czy w tej sytuacji masz prawo używać świateł drogowych?",
+      "ua": "Чи у цій ситуації Вам дозволяється використовувати дальнє світло фар?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "c7bd80de92.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 3 ust. 1\nart. 51 ust. 3 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 3 ust. 1 oraz art. 51 ust. 3 pkt 1 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1145,
+    "questionNumber": 6214,
+    "question": {
+      "de": "Dürfen Sie in dieser Situation die äußere Fahrzeugbeleuchtung ausschalten?",
+      "eng": "In this situation, can you turn off the external lights of the car?",
+      "pl": "Czy w tej sytuacji masz prawo wyłączyć światła zewnętrzne pojazdu?",
+      "ua": "Чи у цій ситуації Ви маєте право вимкнути зовнішнє освітлення транспортного засобу?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "9d05daa66a.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 3 ust. 1\nart. 51 ust. 7"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 3 ust. 1 i art. 51 ust. 7 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1146,
+    "questionNumber": 6216,
+    "question": {
+      "de": "Dürfen Sie während einer Fahrt mit eingeschaltetem Abblendlicht, beim intensivem Regen, der die Sicht einschränkt, die vorderen Nebelscheinwerfer benutzen?",
+      "eng": "If you are driving with your low-beam lights turned on in heavy rain limiting visibility, can you also use the front anti-fog lights?",
+      "pl": "Czy jadąc z włączonymi światłami mijania, w intensywnym deszczu ograniczającym widoczność, masz prawo używać świateł przeciwmgłowych przednich?",
+      "ua": "Чи дозволяється застосовувати передні протитуманні фари під час руху з увімкненими ближніми фарами під час сильного дощу, що обмежує видимість?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "31a48ab3a8.jpg",
+    "categories": [
+      "B",
+      "C",
+      "D",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 30 ust. 1 pkt 1 lit. a"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 30 ust. 1 pkt 1 lit. a Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1147,
+    "questionNumber": 6217,
+    "question": {
+      "de": "Dürfen Sie ein Schallsignal zur Warnung vor drohender Gefahr benutzen?",
+      "eng": "Can you sound the horn to warn others against imminent danger?",
+      "pl": "Czy masz prawo użyć sygnału dźwiękowego, by ostrzec innych przed bezpośrednim niebezpieczeństwem?",
+      "ua": "Чи маєте Ви право застосувати звуковий сигнал, щоб попередити інших про небезпеку, яка їм загрожує?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "d0e259ee2b.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 3 ust. 1\nart. 29 ust. 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 3 ust. 1 oraz art. 29 ust. 1 Ustawy Prawo o ruchu drogowym (Dz.U. z 2012 r. poz. 1137, z późn zm.)"
+  },
+  {
+    "id": 1148,
+    "questionNumber": 6218,
+    "question": {
+      "de": "Sollen Sie beim Halten in der Nacht auf einem nicht beleuchteten Fahrbahn Begrenzungslichter oder Standlicht benutzen?",
+      "eng": "If you park your car at night on an unlit road, are you obliged to use position or parking lights?",
+      "pl": "Czy w czasie postoju pojazdu w nocy na nieoświetlonej jezdni masz obowiązek używać świateł pozycyjnych lub postojowych?",
+      "ua": "Чи зобов’язані Ви увімкнути габаритні або стояночні вогні, коли стоїте у нічний час на неосвітленій дорозі?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "2c982c45d7.jpg",
+    "categories": [
+      "B",
+      "C",
+      "D",
+      "T",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 52 ust. 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 52 ust. 1 Ustawy Prawo o ruchu drogowym (Dz.U. z 2012 r. poz. 1137, z późn zm.)"
+  },
+  {
+    "id": 1149,
+    "questionNumber": 6222,
+    "question": {
+      "de": "Dürfen Sie in dieser Situation Fernlicht benutzen?",
+      "eng": "In this situation, can you use high-beam lights?",
+      "pl": "Czy w tej sytuacji masz prawo używać świateł drogowych?",
+      "ua": "Чи у цій ситуації дозволено Вам користуватися дальнім світлом фар?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "7e4dcb00ce.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 51 ust. 3 pkt 2"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 51 ust. 3 pkt. 2 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1150,
+    "questionNumber": 6223,
+    "question": {
+      "de": "Sollen Sie in dieser Situation von Fernlicht auf Abblendlicht umschalten?",
+      "eng": "In this situation, should you change high-beam lights to low-beam lights?",
+      "pl": "Czy w tej sytuacji masz obowiązek zmienić światła drogowe na światła mijania?",
+      "ua": "Чи у цій ситуації Ви зобов’язані перемкнути дальнє світло фар на ближнє?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "9b81fb8932.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 51 ust. 3 pkt. 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 51 ust. 3 pkt. 1 Ustawy Prawo o ruchu drogowym (Dz.U. z 2012 r. poz. 1137, z późn zm.)"
+  },
+  {
+    "id": 1151,
+    "questionNumber": 6224,
+    "question": {
+      "de": "Dürfen Sie in dieser Situation Tagfahrlicht benutzen?",
+      "eng": "In this situation, can you use daylights?",
+      "pl": "Czy w tej sytuacji masz prawo używać świateł do jazdy dziennej?",
+      "ua": "Чи у цій ситуації Вам дозволяється користуватися денними ходовими вогнями?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "d90385b49a.mp4",
+    "categories": [
+      "B",
+      "C",
+      "D",
+      "T",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 30 ust. 1 pkt 1 lit. a"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 30 ust. 1 pkt 1 lit. a Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1152,
+    "questionNumber": 6225,
+    "question": {
+      "de": "Sollen Sie in dieser Situation von Fernlicht auf Abblendlicht umschalten?",
+      "eng": "In this situation, are you obliged to change high-beam lights to low-beam lights?",
+      "pl": "Czy w tej sytuacji masz obowiązek zmienić światła drogowe na światła mijania?",
+      "ua": "Чи у цій ситуації Ви зобов’язані перемкнути дальнє світло фар на ближнє?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "5c26a985fe.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 51 ust. 3 pkt 2"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 51 ust. 3 pkt. 2 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1153,
+    "questionNumber": 6226,
+    "question": {
+      "de": "Gilt die Pflicht, mit Abblendlicht zu fahren, nur in der Winterperiode?",
+      "eng": "Does the obligation to use low-beam lights in the car apply only to the winter period?",
+      "pl": "Czy obowiązek używania świateł mijania w pojeździe dotyczy tylko okresu zimowego?",
+      "ua": "Чи обов’язок використання ближнього світла фар в транспортному засобі поширюється лише на зимову пору року?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "323b378522.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 51 ust. 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 51 ust. 1 Ustawy Prawo o ruchu drogowym (Dz.U. z 2012 r. poz. 1137, z późn zm.)"
+  },
+  {
+    "id": 1850,
+    "questionNumber": 7127,
+    "question": {
+      "de": "Darf man in der dargestellten Situation Tonsignal benutzen, um den Fußgänger vor \nGefahr zu warnen?",
+      "eng": "Can you use the horn in this situation to warn the pedestrian of danger?",
+      "pl": "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego, aby ostrzec pieszego o niebezpieczeństwie?",
+      "ua": "Чи можна в цій ситуації застосувати звуковий сигнал, щоб попередити пішохода про небезпеку?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "7489041d9a.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": "Art. 29 ust.1, w zw. z art. 3 ust. 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz.U. z 2005 r. Nr 108, poz. 908, z późn. zm.)"
+  },
+  {
+    "id": 1852,
+    "questionNumber": 7129,
+    "question": {
+      "de": "Darf man in der dargestellten Situation Tonsignal benutzen, um den Fußgänger vor der Gefahr zu warnen?",
+      "eng": "Can you use the horn in this situation to warn the pedestrian of danger?",
+      "pl": "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego, aby ostrzec pieszego o niebezpieczeństwie?",
+      "ua": "Чи можна в цій ситуації застосувати звуковий сигнал, щоб попередити пішохода про небезпеку?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "f4a111ec3f.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": "Art. 29 ust.1, w zw. z art. 3 ust.1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn zm. )"
+  },
+  {
+    "id": 2056,
+    "questionNumber": 7414,
+    "question": {
+      "de": "Darf man in dieser Situation das Fernlicht benutzen?",
+      "eng": "Are you allowed to use high beam lights in this situation?",
+      "pl": "Czy w przedstawionej sytuacji masz prawo używać świateł drogowych?",
+      "ua": "Чи дозволено Вам використовувати дальнє світло фар у наведеній ситуації?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "fffe51167f.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 51 ust. 3 pkt 2"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 51 ust. 3 pkt 2 ustawy Prawo o ruchu drogowym (Dz.U z 2012 r. poz. 1137 j.t. z późn. zm.)"
+  },
+  {
+    "id": 2057,
+    "questionNumber": 7416,
+    "question": {
+      "de": "Darf man in dieser Situation das Fernlicht verwenden?",
+      "eng": "Are you allowed to use high-beam lights in this situation?",
+      "pl": "Czy w tej sytuacji masz prawo używać świateł drogowych?",
+      "ua": "Чи дозволено Вам використовувати дальнє світло фар у цій ситуації?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "1e9ce2c582.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 51 ust. 3"
+        ]
+      }
+    ],
+    "additionalDescription": "Art.51 ust. 3 Ustawy prawo o ruchu drogowym (Dz.U. z 2012 r. poz.1137 j.t. z późn. zm.)"
+  },
+  {
+    "id": 2065,
+    "questionNumber": 7428,
+    "question": {
+      "de": "Darfst du in dieser Situation das Tonsignal verwenden?",
+      "eng": "In this situation, are you allowed to use the horn?",
+      "pl": "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego?",
+      "ua": "Чи дозволено Вам, у цій ситуації, подавати звуковий сигнал?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "1721c6c183.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 29 ust. 1 i 2\nart. 26 ust 7"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 29 ust. 1 i 2 Ustawy prawo o ruchu drogowym (Dz.U. z 2012 r. poz.1137 j.t. z późn. zm.) w zw. z Art. 26 ust. 7 Ustawy prawo o ruchu drogowym (Dz.U. z 2012 r. poz.1137 j.t. z późn. zm.)"
+  },
+  {
+    "id": 2086,
+    "questionNumber": 7459,
+    "question": {
+      "de": "Darf man die Warnblinkanlage einschalten, wenn man ein geschlepptes Fahrzeug lenkt?",
+      "eng": "Are you allowed to switch on emergency lights when you are driving a hauled vehicle?",
+      "pl": "Czy masz prawo włączyć światła awaryjne, gdy kierujesz holowanym pojazdem?",
+      "ua": "Чи дозволено Вам вмикати ліхтарі аварійної сигналізації, коли Ви керуєте транспортним засобом, який буксирується?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "a0d7b7affc.jpg",
+    "categories": [
+      "B",
+      "C",
+      "D",
+      "T",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": "Art. 31 ust. 1 pkt 5 Ustawy prawo o ruchu drogowym (Dz.U. z 2012 r. poz.1137 j.t. z późn. zm.)"
+  },
+  {
+    "id": 2090,
+    "questionNumber": 7464,
+    "question": {
+      "de": "Darf man unter diesen Witterungsbedingungen das Abblendlicht und die vorderen Nebelscheinwerfer gleichzeitig benutzen?",
+      "eng": "Are you allowed to use low-beam lights and front fog lights at the same time during these weather conditions?",
+      "pl": "Czy w tych warunkach atmosferycznych masz prawo używać jednocześnie świateł mijania i przeciwmgłowych przednich?",
+      "ua": "Чи можна за таких погодних умов одночасно використовувати ближнє світло фар і передні протитуманні фари?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "4ba8a66e43.jpg",
+    "categories": [
+      "B",
+      "C",
+      "D",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 30 ust. 1 pkt. 1 lit. a"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 30 ust. 1 pkt. 1 lit. a Ustawy prawo o ruchu drogowym (Dz.U. z 2012 r. poz.1137 j.t. z późn. zm.)"
+  },
+  {
+    "id": 2092,
+    "questionNumber": 7466,
+    "question": {
+      "de": "Darf man bei diesem Wetter mit eingeschaltetem Tagfahrlicht fahren?",
+      "eng": "Are you allowed to drive with daytime running lights switched on in these weather conditions?",
+      "pl": "Czy w tych warunkach atmosferycznych masz prawo jechać z włączonymi światłami do jazdy dziennej?",
+      "ua": "Чи дозволено Вам їздити з увімкненими денними ходовими вогнями за таких погодних умов?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "638b17085d.jpg",
+    "categories": [
+      "B",
+      "C",
+      "D",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 30 ust. 1 pkt 1 lit. a \nart. 51 ust. 2"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 30 ust. 1 pkt 1 lit. a i 51 ust. 2 Ustawy prawo o ruchu drogowym (Dz.U. z 2012 r. poz.1137 j.t. z późn. zm.)"
+  },
+  {
+    "id": 2095,
+    "questionNumber": 7469,
+    "question": {
+      "de": "Darf man in dieser Situation das Fernlicht benutzen?",
+      "eng": "Are you allowed to use high-beam lights in this situation?",
+      "pl": "Czy w tej sytuacji masz prawo używać świateł drogowych?",
+      "ua": "Чи дозволено Вам використовувати дальнє світло фар у цій ситуації?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "82813737c0.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 51 ust. 3"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 51 ust. 3 Ustawy prawo o ruchu drogowym (Dz.U. z 2012 r. poz.1137 j.t. z późn. zm.)"
+  },
+  {
+    "id": 2096,
+    "questionNumber": 7470,
+    "question": {
+      "de": "Bist du in der dargestellten Situation verpflichtet, das Abblendlicht zu verwenden?",
+      "eng": "Are you obliged to use low-beam lights in this situation?",
+      "pl": "Czy w tej sytuacji masz obowiązek używać świateł mijania?",
+      "ua": "Чи зобов'язані Ви використовувати ближнє світло в цій ситуації?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "7c72d7d78d.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 51 ust. 1 i 3"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 51 ust. 1 i 3 Ustawy prawo o ruchu drogowym (Dz.U. z 2012 r. poz.1137 j.t. z późn. zm.)"
+  },
+  {
+    "id": 2097,
+    "questionNumber": 7471,
+    "question": {
+      "de": "Darf man in dieser Situation Tonsignal benutzen, um den Lenker des vorausfahrenden Fahrzeuges  zum schnelleren Verlassen der Kreuzung zu bewegen?",
+      "eng": "In this situation, are you allowed to use the horn in order to induce the driver of the preceding vehicle to leave the intersection faster?",
+      "pl": "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego, aby nakłonić kierującego pojazdem jadącym przed Tobą do szybszego opuszczenia skrzyżowania?",
+      "ua": "Чи можете Ви, у цій ситуації, дати звуковий сигнал, щоб спонукати водія транспортного засобу, що їде попереду, швидше з'їхати з перехрестя?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "085787829b.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 29 ust. 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 29 ust. 1 Ustawy prawo o ruchu drogowym (Dz.U. z 2012 r. poz.1137 j.t. z późn. zm.)"
+  },
+  {
+    "id": 2282,
+    "questionNumber": 7884,
+    "question": {
+      "de": "Ist man in der dargestellten Situation verpflichtet, das Abblendlicht zu benutzen?",
+      "eng": "Are you obliged to use low-beam lights in this situation?",
+      "pl": "Czy w tej sytuacji masz obowiązek używać świateł mijania?",
+      "ua": "Чи зобов'язані Ви використовувати ближнє світло в цій ситуації?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "1a459f5997.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 51 ust. 3 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 51 ust. 3 pkt 1 Ustawy prawo o ruchu drogowym (Dz.U. z 2012 r. poz.1137 j.t. z późn. zm.)"
+  },
+  {
+    "id": 2322,
+    "questionNumber": 8238,
+    "question": {
+      "de": "Darf man hinteres Nebellicht gebrauchen, wenn der Nebel die Sicht auf 100 m beschränkt?",
+      "eng": "Are you permitted to use the rear fog lights, if fog restricts visibility to a distance of 100 m?",
+      "pl": "Czy masz prawo używać świateł przeciwmgłowych tylnych, jeżeli mgła ogranicza widoczność na odległość 100 m?",
+      "ua": "Чи маєте Ви право вмикати задні протитуманні фари, якщо туман обмежує видимість на відстані 100 м?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "0c7738d1ec.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 30 ust 3"
+        ]
+      }
+    ],
+    "additionalDescription": " art. 30 ust 3 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.)"
+  },
+  {
+    "id": 2323,
+    "questionNumber": 8245,
+    "question": {
+      "de": "Darf man hinteres Nebellicht gebrauchen, wenn der Nebel die Sichtweite auf eine kleinere Distanz als 50 m beschränkt?",
+      "eng": "Are you allowed to use the rear fog lights if the fog restricts visibility to a distance less than 50 m?",
+      "pl": "Czy masz prawo używać świateł przeciwmgłowych tylnych, jeżeli mgła ogranicza widoczność na odległość mniejszą niż 50 m?",
+      "ua": "Чи маєте Ви право вмикати задні протитуманні фари, якщо туман обмежує видимість на відстані до 50 м?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "0c7738d1ec.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 30 ust. 1 pkt 1 lit. a\nart. 30 ust 3"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 30 ust. 1 pkt 1 lit. a, art. 30 ust 3 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.)"
+  },
+  {
+    "id": 2324,
+    "questionNumber": 8246,
+    "question": {
+      "de": "Ist die Lichthupe am Tag mit Fernlicht verboten, wenn man andere Fahrer damit blenden kann?",
+      "eng": "Is it prohibited during the day to give warning signal with the main beam headlights, if this may cause blinding to other drivers?",
+      "pl": "Czy w dzień zabronione jest ostrzeganie światłami drogowymi, jeżeli może spowodować to oślepienie innych kierujących?",
+      "ua": "Чи заборонено вмикати дальнє світло вдень, якщо це може засліпити інших водіїв?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "a6877c3a7e.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 29 ust. 2 pkt 3"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 29 ust. 2 pkt 3 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.)"
+  },
+  {
+    "id": 2514,
+    "questionNumber": 9255,
+    "question": {
+      "de": "Darf man in dieser Situation die Hupe gebrauchen, um die stehenden Fahrzeuge zu beschleunigen?",
+      "eng": "Are you allowed in this situation to use the sound signal to urge on stationary vehicles?",
+      "pl": "Czy w przedstawionej sytuacji wolno Ci użyć sygnału dźwiękowego, aby ponaglić stojące pojazdy?",
+      "ua": "Чи, у наведеній ситуації, Ви маєте право застосувати звуковий сигнал щоб спонукати транспортні засоби, що стоять, швидше рушити з місця?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "c641ae8901.mp4",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": "Ustawa z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym. (Dz.U. 1997 nr 98 poz. 602, z późn. zm.)"
+  },
+  {
+    "id": 2515,
+    "questionNumber": 9261,
+    "question": {
+      "de": "Darf man in dieser Situation die Hupe gebrauchen, um den Radfahrer zu beschleunigen?",
+      "eng": "Are you allowed in this situation to use the sound signal to urge on the cyclist?",
+      "pl": "Czy w przedstawionej sytuacji wolno Ci użyć sygnału dźwiękowego, aby ponaglić kierującego rowerem?",
+      "ua": "Чи, у наведеній ситуації, можна застосовувати звуковий сигнал щоб спонукати велосипедиста рухатися швидше?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "95d4b094cc.mp4",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": "Ustawa z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym. (Dz.U. 1997 nr 98 poz. 602, z późn. zm.)"
+  },
+  {
+    "id": 2726,
+    "questionNumber": 10406,
+    "question": {
+      "de": "Dürfen Sie in dieser Situation Fernlicht gebrauchen?",
+      "eng": "Are you allowed to use the headlights in this situation?",
+      "pl": "Czy wolno Ci w tej sytuacji używać świateł drogowych?",
+      "ua": "Чи дозволяється Вам застосовувати дальнє світло фар у цій ситуації?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "2195e11237.mp4",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 2733,
+    "questionNumber": 10428,
+    "question": {
+      "de": "Sollen Sie in dieser Situation Hupe gebrauchen, um die Kinder zu warnen, dass Sie zum Fußgängerüberweg kommen?",
+      "eng": "In this situation, are you required to use a sound signal to alert children that you are approaching the pedestrian crossing?",
+      "pl": "Czy w tej sytuacji masz obowiązek użyć sygnału dźwiękowego, aby ostrzec dzieci, że zbliżasz się do przejścia?",
+      "ua": "Чи зобов’язані Ви, у цій ситуації, звуковим сигналом попереджати дітей про своє наближення до переходу?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "a2bf69d1c1.mp4",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 2816,
+    "questionNumber": 10779,
+    "question": {
+      "de": "Darf der Fahrer in dieser Situation Fernlicht einschalten?",
+      "eng": "In the present situation, is the driver allowed to switch on the driving beam?",
+      "pl": "Czy w widocznej sytuacji kierujący może włączyć światła drogowe?",
+      "ua": "Чи у цій ситуації водій може увімкнути дальнє світло фар?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "6822ab8aee.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 51 ust. 3"
+        ]
+      }
+    ],
+    "additionalDescription": ""
+  },
+  {
+    "id": 2970,
+    "questionNumber": 10974,
+    "question": {
+      "de": "Dürfen Sie in diesen Verkehrsbedingungen beim Fahren mit einem Moped bzw. einem leichten Quad das Tagfahrlicht nutzen?",
+      "eng": "Can you use daytime running lights in these road conditions, when driving a motorbike or light quadricycle?",
+      "pl": "Czy w tych warunkach drogowych, podczas jazdy motorowerem lub czterokołowcem lekkim, możesz używać świateł do jazdy dziennej?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "c823b7d30b.mp4",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 2971,
+    "questionNumber": 10976,
+    "question": {
+      "de": "Dürfen Sie beim Mopedfahren am Tag, von Morgen- bis Abenddämmerung bei guter Sicht das Tagfahrlicht statt Abblendlicht nutzen?",
+      "eng": "When driving a moped during the day, from dawn to dusk, with good air clarity, can you use daytime running lights instead of dipped beam lights?",
+      "pl": "Czy podczas jazdy motorowerem w ciągu dnia, od świtu do zmierzchu, przy dobrej przejrzystości powietrza, możesz używać świateł do jazdy dziennej, zamiast świateł mijania?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "b6692ea5df.mp4",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 2972,
+    "questionNumber": 10979,
+    "question": {
+      "de": "Darf der Mopedfahrer bei den sich verschlechternden Wetterbedingungen das Tagfahrlicht nutzen?",
+      "eng": "Can a moped driver use daytime running lights in deteriorating weather conditions?",
+      "pl": "Czy w pogarszających się warunkach atmosferycznych, kierujący motorowerem może używać świateł do jazdy dziennej?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "fc074d5013.mp4",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 2973,
+    "questionNumber": 10980,
+    "question": {
+      "de": "Darf man auf dieser Strecke beim Fahren mit einem leichten Quad das Fernlicht nutzen?",
+      "eng": "Can you use high beam lights on this stretch of road when driving a light quadricycle?",
+      "pl": "Czy na tym odcinku drogi, kierując czterokołowcem lekkim, możesz używać świateł drogowych?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "b4bc336710.mp4",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 2974,
+    "questionNumber": 10981,
+    "question": {
+      "de": "Wenn Sie an einem auf benachbarten Fahrstreifen fahrenden Bus vorbeikommen, sollten Sie Hupe gebrauchen?",
+      "eng": "Should you use the sound signal when driving past the bus in the adjacent lane?",
+      "pl": "Czy przejeżdżając obok jadącego sąsiednim pasem autobusu powinieneś użyć sygnału dźwiękowego?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "f53f4c2ffc.mp4",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 2975,
+    "questionNumber": 10982,
+    "question": {
+      "de": "Wenn Sie sich in der Situation dem Fußgängerüberweg nähern, sollten Sie Hupe bzw. Lichthupe gebrauchen?",
+      "eng": "In this situation, should you use the sound or light signal when approaching the pedestrian crossing?",
+      "pl": "Czy w tej sytuacji, zbliżając się do przejścia dla pieszych, powinieneś użyć sygnału dźwiękowego lub świetlnego?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "26ae53f338.mp4",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 2976,
+    "questionNumber": 10983,
+    "question": {
+      "de": "Dürfen Sie auf diesem Straßenabschnitt beim Fahren mit einem Moped ohne Taghfahrlicht Standlicht gebrauchen?",
+      "eng": "Can you use position lights on this section of the road when driving a motorbike not equipped with daytime running lights?",
+      "pl": "Czy na tym odcinku drogi, kierując motorowerem niewyposażonym w światła do jazdy dziennej, możesz używać świateł pozycyjnych?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "250b9f9419.mp4",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 2977,
+    "questionNumber": 10986,
+    "question": {
+      "de": "Darf in dieser Situation der Mopedfahrer hupen, um die die Straße überquerende Person zu beschleunigen?",
+      "eng": "In this situation, can a moped driver use the sound signal to hurry up a person crossing the road?",
+      "pl": "Czy w tej sytuacji, kierujący motorowerem może użyć sygnału dźwiękowego, aby pospieszyć osobę przechodzącą przez jezdnię?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "0286dd552c.mp4",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "Art. 29"
+        ]
+      }
+    ],
+    "additionalDescription": ""
+  },
+  {
+    "id": 2987,
+    "questionNumber": 11027,
+    "question": {
+      "de": "Darf der Mopedfahrer in diesen Verkehrbedingungen Fernlicht gebrauchen?",
+      "eng": "In these road conditions, can a moped driver use the high beam lights?",
+      "pl": "Czy w tych warunkach drogowych, kierujący motorowerem może używać świateł drogowych?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "c823b7d30b.mp4",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3223,
+    "questionNumber": 12500,
+    "question": {
+      "de": "Sie planen, die Vorfahrtsstraße weiterhin zu fahren. Sollen Sie den linken Blinker einschalten?",
+      "eng": "You are about to continue on a priority road. Do you need to use your left indicator?",
+      "pl": "Zamierzasz kontynuować jazdę drogą z pierwszeństwem przejazdu. Czy musisz włączyć lewy kierunkowskaz?",
+      "ua": "Ви маєте намір продовжувати рух по дорозі з перевагою. Чи потрібно Вам вмикати лівий поворотник?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "1dacc73669.mp4",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 22 ust. 5"
+        ]
+      }
+    ],
+    "additionalDescription": ""
+  },
+  {
+    "id": 3224,
+    "questionNumber": 12504,
+    "question": {
+      "de": "Sie möchten an der nächsten Kreuzung links abbiegen. Sollen Sie den linken Blinker einschalten?",
+      "eng": "You are about to turn left at the next intersection. Do you have to turn on your left indicator?",
+      "pl": "Zamierzasz skręcić w lewo na najbliższym skrzyżowaniu. Czy musisz włączyć lewy kierunkowskaz?",
+      "ua": "Ви збираєтеся повернути ліворуч на найближчому перехресті. Чи потрібно Вам вмикати лівий поворотник?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "3d95018a56.mp4",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 22 ust. 5"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 43 ust. 1"
+        ]
+      }
+    ],
+    "additionalDescription": ""
+  },
+  {
+    "id": 3225,
+    "questionNumber": 12505,
+    "question": {
+      "de": "Sie planen, die Vorfahrtsstraße weiterhin zu fahren. Sollen Sie den rechten Blinker einschalten?",
+      "eng": "You intend to continue on a priority road. Do you have to turn on your right indicator?",
+      "pl": "Zamierzasz kontynuować jazdę drogą z pierwszeństwem przejazdu. Czy musisz włączyć prawy kierunkowskaz?",
+      "ua": "Ви маєте намір продовжувати рух по дорозі з перевагою. Чи потрібно Вам вмикати правий поворотник?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "3d95018a56.mp4",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 22 ust. 5"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 43 ust. 1"
+        ]
+      }
+    ],
+    "additionalDescription": ""
+  },
+  {
+    "id": 3346,
+    "questionNumber": 13212,
+    "question": {
+      "de": "Soll man hinter diesem Zeichen Warnkblinklicht einschalten, um das Parken eines defekten Fahrzeugs zu signalisieren?",
+      "eng": "Are you obliged to switch on your hazard lights beyond this sign to indicate that the damaged vehicle is stationary?",
+      "pl": "Czy za tym znakiem masz obowiązek włączyć światła awaryjne, aby sygnalizować postój uszkodzonego pojazdu?",
+      "ua": "Чи зобов'язані Ви вмикати аварійну світлову сигналізацію після проїзду цього знака, щоб інформувати про аварійну зупинку пошкодженого транспортного засобу?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "1fe16fe9c3.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 28 ust. 2"
+        ]
+      }
+    ],
+    "additionalDescription": ""
+  },
+  {
+    "id": 3350,
+    "questionNumber": 13226,
+    "question": {
+      "de": "Darf man bei dieser Wetterlage mit eingeschaltetem Tagesfahrlicht fahren?",
+      "eng": "Are you entitled to drive with your daytime running lights on in these weather conditions?",
+      "pl": "Czy w tych warunkach atmosferycznych masz prawo jechać z włączonymi światłami do jazdy dziennej?",
+      "ua": "Чи, за таких погодних умов, Вам дозволяється їхати з увімкненими денними ходовими вогнями?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "b00dd9ae48.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 51 ust. 2"
+        ]
+      }
+    ],
+    "additionalDescription": ""
+  }
+]

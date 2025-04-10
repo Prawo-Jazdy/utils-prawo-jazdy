@@ -1,0 +1,6291 @@
+[
+  {
+    "id": 51,
+    "questionNumber": 916,
+    "question": {
+      "de": "Verbessert sich beim Fahrzeuglenken mit dem Ablauf der Zeit Ihre Fähigkeit, Verkehrszeichen- und Signale wahrzunehmen?",
+      "eng": "When driving a vehicle, does your ability to perceive road signs and signals improve with time?",
+      "pl": "Czy w trakcie prowadzenia pojazdu, wraz z upływem czasu, poprawia się Twoja zdolność dostrzegania znaków i sygnałów drogowych?",
+      "ua": "Чи під час поїздки Ваша здатність реагувати на дорожні знаки та сигнали покращується з часом?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "9252129234.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": "§ 1 pkt.1c załącznika nr 1 do Rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie szkolenia osób ubiegających się o uprawnienia do kierowania pojazdami, instruktorów i wykładowców (Dz.U. z 2012r., poz.1019)."
+  },
+  {
+    "id": 53,
+    "questionNumber": 919,
+    "question": {
+      "de": "Wenn Sie das Fahrzeug im gereizten Zustand lenken, verringert sich Ihre Konzentrationsfähigkeit?",
+      "eng": "When driving in a state of emotional arousal, does your ability to concentrate decrease?",
+      "pl": "Czy gdy prowadzisz w stanie pobudzenia emocjonalnego, to maleje Twoja zdolność koncentracji uwagi?",
+      "ua": "Чи знижується Ваша здатність концентрувати увагу, коли Ви перебуваєте за кермом у стані емоційного збудження?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "34b542f4fa.mp4",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": "§ 1 pkt.1c załącznika nr 1 do Rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie szkolenia osób ubiegających się o uprawnienia do kierowania pojazdami, instruktorów i wykładowców (Dz.U. z 2012r., poz.1019)."
+  },
+  {
+    "id": 123,
+    "questionNumber": 1252,
+    "question": {
+      "de": "Als Motorradfahrer sind Sie an einem Verkehrsunfall beteiligt, in dem es einen Verletzten gibt. Gilt für Sie das Verbot, das Fahrzeug von der Unfallstelle zu entfernen?",
+      "eng": "When riding a motorcycle you participate in a road accident in with a person got injured. Do you need to abide by the prohibition to remove the vehicle from the scene of the accident?",
+      "pl": "Kierując motocyklem, uczestniczysz w wypadku drogowym, w którym jest ranny. Czy obowiązuje Cię zakaz usuwania pojazdu z miejsca wypadku?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "e53d329880.jpg",
+    "categories": [
+      "A",
+      "A1",
+      "A2"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 124,
+    "questionNumber": 1258,
+    "question": {
+      "de": "Ist in dieser Situation das beschädigte Motorrad auf den Randstreifen zu schieben?",
+      "eng": "Should you move the damaged motorcycle onto the hard shoulder in this situation?",
+      "pl": "Czy w tej sytuacji masz obowiązek przesunąć uszkodzony motocykl na pobocze drogi?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "9e4445668e.jpg",
+    "categories": [
+      "A",
+      "A1",
+      "A2"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 125,
+    "questionNumber": 1259,
+    "question": {
+      "de": "Ist das kaputte Motorrad in dieser Situation auf den Straßenrand zu schieben?",
+      "eng": "Should you move the motorcycle which broke down onto the hard shoulder in this situation?",
+      "pl": "Czy w tej sytuacji masz obowiązek przesunąć na pobocze motocykl, który uległ awarii?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "54e91e1a61.jpg",
+    "categories": [
+      "A",
+      "A1",
+      "A2"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 126,
+    "questionNumber": 1262,
+    "question": {
+      "de": "Soll man das Motorrad, das an diese Stelle kaputt gegangen ist, auf den Notstreifen schieben?",
+      "eng": "Are you obliged to move the motorcycle which got damaged in this place, to the emergency lane?",
+      "pl": "Czy w tej sytuacji masz obowiązek przesunąć uszkodzony motocykl na pas awaryjny?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "1fcf02341f.jpg",
+    "categories": [
+      "A",
+      "A1",
+      "A2"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 127,
+    "questionNumber": 1264,
+    "question": {
+      "de": "Soll man das Motorrad, das an diese Stelle kaputt gegangen ist, auf den Notstreifen schieben?",
+      "eng": "Are you obliged to move the motorcycle which got damaged in this place, to the emergency lane?",
+      "pl": "Czy w tej sytuacji masz obowiązek przestawić uszkodzony motocykl na pas awaryjny?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "b2ee7bce85.jpg",
+    "categories": [
+      "A",
+      "A1",
+      "A2"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 328,
+    "questionNumber": 2420,
+    "question": {
+      "de": "Dürfen Sie in dargestellten Situation den Unfallort verlassen, weil Sie davon ausgehen, dass der Täter dem Betroffenen Hilfe leistet?",
+      "eng": "Are you allowed to leave the scene of the accident because you believe that the perpetrator of the accident will give first aid to the injured person? \n",
+      "pl": "Czy w tej sytuacji wolno Ci opuścić miejsce zdarzenia, bo uznałeś, że sprawca wypadku udzieli pomocy poszkodowanemu?",
+      "ua": "Чи Ви маєте право у такій ситуації залишити місце ДТП, оскільки вважаєте, що винуватець ДТП сам допоможе постраждалому?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "10156dce6f.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 3 i ust. 2 pkt 1 i 3"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 44 ust. 3 w związku z ust. 2 pkt 1) i 3) ustawy z 20 czerwca 1997 roku Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 ze zm.)"
+  },
+  {
+    "id": 330,
+    "questionNumber": 2430,
+    "question": {
+      "de": "Sie wissenm dass bald an den Unfallort Rettungsdienste kommen. Sollen Sie den Täter dazu bewegen, den Geschädigten ins Krankenhaus zu bringen?",
+      "eng": "You know that the emergency services will arrive to the scene of the accident soon. Should you persuade the perpetrator to take the injured person to the hospital?",
+      "pl": "Wiesz, że wkrótce na miejsce zdarzenia przybędą służby ratunkowe. Czy powinieneś nakłaniać sprawcę, aby zawiózł poszkodowanego do szpitala?",
+      "ua": "Ви знаєте, що незабаром на місце прибудуть служби екстреної допомоги. Чи Вам слід намовляти винуватця ДТП відвезти потерпілого до лікарні?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "10156dce6f.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": "Wytyczne Polskiej Rady Resuscytacji 2010"
+  },
+  {
+    "id": 331,
+    "questionNumber": 2432,
+    "question": {
+      "de": "Sollen Sie in der dargestellten Situation während des Notrufs allererst den Vorfallort bestimmen?",
+      "eng": "When calling the emergency number in this situation should you first of all state the place of the incident?",
+      "pl": "Czy w tej sytuacji, dzwoniąc pod numer alarmowy, w pierwszej kolejności powinieneś określić miejsce zdarzenia?",
+      "ua": "Чи у цій ситуації, телефонуючи на номер виклику служб екстреної допомоги, в першу чергу слід вказати місце події?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "10156dce6f.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 2"
+        ]
+      }
+    ],
+    "additionalDescription": "Prawo o ruchu drogowym (Dz. U. z 2012 r. poz 1137, z późn zm.)\nArt. 44. 2. Jeżeli w wypadku jest zabity lub ranny, kierujący pojazdem jest obowiązany ponadto:\n 1) udzielić niezbędnej pomocy ofiarom wypadku oraz wezwać pogotowie ratunkowe i Policję"
+  },
+  {
+    "id": 334,
+    "questionNumber": 2438,
+    "question": {
+      "de": "Sie sehen Menschen im brennenden Auto. Haben Sie die Pflicht, soweit es möglich ist, ihnen die erste Hilfe zu leisten und die Feuerwehr zu benachrichtigen?",
+      "eng": "Seeing people in a burning car, are you obliged to administer first aid to them and inform the fire brigade?",
+      "pl": "Czy widząc ludzi w płonącym samochodzie, masz obowiązek, jeśli jest to możliwe, udzielić im pierwszej pomocy  i wezwać straż pożarną?",
+      "ua": "Якщо Ви побачили людей у ​​палаючій машині, чи зобов’язані Ви, якщо це можливо, надати їм першу медичну допомогу та викликати пожежників?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "8046f84c40.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": "Obowiązek powiadomienia (art. 4 ustawa z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (t.j. Dz. U. z 2013 r. poz. 757 ze zm.)) \nKto zauważy osobę lub osoby znajdujące się w stanie nagłego zagrożenia zdrowotnego lub jest świadkiem zdarzenia powodującego taki stan, w miarę posiadanych możliwości i umiejętności ma obowiązek niezwłocznego podjęcia działań zmierzających do skutecznego powiadomienia o tym zdarzeniu podmiotów ustawowo powołanych do niesienia pomocy osobom w stanie nagłego zagrożenia zdrowotnego."
+  },
+  {
+    "id": 338,
+    "questionNumber": 2445,
+    "question": {
+      "de": "Sollen Sie in der dargestellten Situation, ohne eigene Sicherheit aufs Spiel zu setzen, den Geschädigten aus dem qualmenden Wagen herausholen?",
+      "eng": "In this situation, should you evacuate the injured person from the fuming car, bearing in mind your own safety?",
+      "pl": "Czy w tej sytuacji, pamiętając o własnym bezpieczeństwie, powinieneś ewakuować poszkodowanego z dymiącego samochodu?",
+      "ua": "Чи в даній ситуації, пам’ятаючи про власну безпеку, Ви повинні евакуювати постраждалого з задимленого автомобіля?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "8046f84c40.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": "art. 162 kk."
+  },
+  {
+    "id": 340,
+    "questionNumber": 2455,
+    "question": {
+      "de": "Dürfen Sie in der dargestellten Situation wegfahren und die liegende Person ohne Hilfe liegen lassen?",
+      "eng": "Can you drive away and leave the lying person without any intervention in this situation?",
+      "pl": "Czy w tej sytuacji masz prawo odjechać i pozostawić leżącą osobę bez pomocy?",
+      "ua": "Чи у цій ситуації Ви маєте право від'їхати і залишити лежачу особу без допомоги?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "6e63b9c0f8.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 2"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 44. 2. Jeżeli w wypadku jest zabity lub ranny, kierujący pojazdem jest obowiązany ponadto:\n1) udzielić niezbędnej pomocy ofiarom wypadku oraz wezwać pogotowie ratunkowe i Policję\nArt.162 kodeksu karnego"
+  },
+  {
+    "id": 341,
+    "questionNumber": 2457,
+    "question": {
+      "de": "Sollen Sie in der dargestellten Situation anhalten, erste Hilfe leisten und entsprechende Rettungsdienste darüber in Kenntnis setzen?",
+      "eng": "Are you obliged to stop and inform the emergency services in this situation?",
+      "pl": "Czy w tej sytuacji masz obowiązek zatrzymać się, udzielić niezbędnej pomocy i powiadomić służby ratunkowe?",
+      "ua": "Чи зобов'язані Ви в цій ситуації зупинитися, надати необхідну допомогу та повідомити екстрену службу?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "6e63b9c0f8.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": "ustawa z 20 czerwca 1997 roku Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 ze zm.)"
+  },
+  {
+    "id": 343,
+    "questionNumber": 2461,
+    "question": {
+      "de": "Hinter Ihnen fahren andere Fahrzeuge. Dürfen Sie den Liegenden vorsichtig umfahren und sich entfernen?",
+      "eng": "Other vehicles are driving behind you. Are you allowed to move away, carefully passing the lying person in this situation?",
+      "pl": "Czy w tej sytuacji, gdy jadą za Tobą inne pojazdy, masz prawo ostrożnie ominąć leżącego i oddalić się?",
+      "ua": "Чи у ситуації, коли за Вами їдуть інші транспортні засоби, Ви можете обережно об'їхати лежачу людину та поїхати геть?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "6e63b9c0f8.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 2"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 44. 2. Prawo o ruchu drogowym (ustawa z 20 czerwca 1997 roku Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 ze zm.))"
+  },
+  {
+    "id": 346,
+    "questionNumber": 2471,
+    "question": {
+      "de": "Sollen Sie in der dargestellten Situation anhalten und sich um diese Person kümmern?",
+      "eng": "In the presented situation, are you obliged to stop and take an interest in this person?",
+      "pl": "Czy masz obowiązek zatrzymać się i zainteresować tą osobą?",
+      "ua": "Чи зобов’язані Ви зупинитися та зацікавитися цією людиною?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "b2787f4f72.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 2 i ust. 3"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 44 ust. 2 i 3 ustawa z 20 czerwca 1997 roku Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 ze zm.)"
+  },
+  {
+    "id": 349,
+    "questionNumber": 2476,
+    "question": {
+      "de": "Soll man in dieser Situation den Geschädigten mit dem Gesicht im Wasser lassen, weil eine Änderung der Körperlage eine Wirbelsäulenverletzung verursachen kann?",
+      "eng": "In the presented situation, seeing the injured person with his head submerged in the water, should you  leave him unmoved for fear of injuring his spine?",
+      "pl": "Czy w tej sytuacji należy pozostawić poszkodowanego z twarzą zanurzoną w wodzie, ponieważ zmiana pozycji może spowodować uraz kręgosłupa?",
+      "ua": "Чи можна в цій ситуації залишати пораненого із зануреним у воду обличчям, оскільки зміна положення може спричинити травму хребта?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "4289b5fd4b.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 2 i ust. 3"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 44 ust. 2 i 3 ustawa z 20 czerwca 1997 roku Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 ze zm.)"
+  },
+  {
+    "id": 486,
+    "questionNumber": 2990,
+    "question": {
+      "de": "Sollen Sie in dieser Sitauation am Unfallort bleiben?",
+      "eng": "Are yo obliged to stay at the scene of the accident in this situation?",
+      "pl": "Czy w tej sytuacji masz obowiązek pozostać na miejscu wypadku?",
+      "ua": "Чи зобов'язані Ви, в цій ситуації, залишатися на місці ДТП?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "10156dce6f.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 2 i ust. 3"
+        ]
+      }
+    ],
+    "additionalDescription": "ustawa z 20 czerwca 1997 roku Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 ze zm.) oraz art. 44 ust. 2 i 3"
+  },
+  {
+    "id": 487,
+    "questionNumber": 2994,
+    "question": {
+      "de": "Haben Sie in der dargestellten Situation die Pflicht, dem Unfallopfer unerläßliche HIlfe zu leisten?",
+      "eng": "Are you obliged to give necessary aid to the victim of the accident in this situation?",
+      "pl": "Czy w tej sytuacji masz obowiązek udzielić niezbędnej pomocy ofierze wypadku?",
+      "ua": "Чи зобов'язані Ви, в цій ситуації, надати необхідну допомогу потерпілому в ДТП?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "10156dce6f.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 2 i ust. 3"
+        ]
+      }
+    ],
+    "additionalDescription": "ustawa z 20 czerwca 1997 roku Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 ze zm.) oraz art. 44 ust. 2 i 3"
+  },
+  {
+    "id": 488,
+    "questionNumber": 3007,
+    "question": {
+      "de": "Sollen Sie in der dargestellten Situation dafür sorgen, dass der Straßenverkehr an der Unfallstelle gefahrlos verläuft?",
+      "eng": "In this situation, are you obliged to ensure traffic safety at the scene of the accident?",
+      "pl": "Czy w tej sytuacji masz obowiązek zapewnić bezpieczeństwo ruchu w miejscu wypadku?",
+      "ua": "Чи зобов'язані Ви, в даній ситуації, забезпечити безпеку руху на місці ДТП?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "b10c9b9d24.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 1 pkt 1 i pkt 2"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 44 ust. 1 pkt 1 i 2 ustawy - ustawa z 20 czerwca 1997 roku Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 ze zm.)"
+  },
+  {
+    "id": 543,
+    "questionNumber": 3187,
+    "question": {
+      "de": "Ist der Fahrzeuglenker, nachdem er eine geringfügige Dosis eines Betäubungsmittels zu sich genommen hat, besser in der Lage, das Risiko auf der Straße richtig einzuschätzen?",
+      "eng": "Does the vehicle driver have a better ability to asses the risk on the road after using a small amount of drugs?",
+      "pl": "Czy zażycie przez prowadzącego pojazd niewielkiej ilości narkotyku wpływa na poprawę zdolności do prawidłowej oceny ryzyka na drodze?",
+      "ua": "Чи вживання водієм невеликої кількості наркотику покращує його здатність правильно оцінювати ризики на дорозі?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": "§ 1 pkt.1c załącznika nr 1 do Rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie szkolenia osób ubiegających się o uprawnienia do kierowania pojazdami, instruktorów i wykładowców (Dz.U. z 2012r., poz.1019)."
+  },
+  {
+    "id": 550,
+    "questionNumber": 3232,
+    "question": {
+      "de": "Hat der Fahrzeuglenker nach dem Alkoholgenuss Probleme damit,  zwei oder mehr Tätigkeiten gleichzeitig auszuführen?",
+      "eng": "Does the vehicle driver have difficulties in simultaneous performance of two or more activities at the same time after alcohol consumption?",
+      "pl": "Czy kierujący pojazdem po spożyciu alkoholu, może mieć trudności w jednoczesnym wykonywaniu dwóch i więcej czynności?",
+      "ua": "Чи може водій після вживання алкоголю мати труднощі з виконанням двох або більше дій одночасно?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": "§ 1 pkt.1c załącznika nr 1 do Rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie szkolenia osób ubiegających się o uprawnienia do kierowania pojazdami, instruktorów i wykładowców (Dz.U. z 2012r., poz.1019)."
+  },
+  {
+    "id": 574,
+    "questionNumber": 3418,
+    "question": {
+      "de": "Sind Sie in der dargestellten Situation immer dazu verpflichtet, anzuhalten?",
+      "eng": "In the presented situation are you obliged to stop in all cases?",
+      "pl": "Czy w takiej sytuacji zawsze jesteś zobowiązany do zatrzymania się?",
+      "ua": "Чи Ви завжди зобов'язані зупинятися в такій ситуації?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "b10c9b9d24.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": "ITLS ratownictwo przedszpitalne w urazach 2009; ustawa z 20 czerwca 1997 roku Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 ze zm.) oraz art. 44 ust. 1 i 3"
+  },
+  {
+    "id": 666,
+    "questionNumber": 3658,
+    "question": {
+      "de": "Sie sind an einem Verkehrsunfall beteiligt. Haben Sie die Pflicht, den Verletzten Hilfe zu leisten, auch wenn Sie keine medizinischen Qualifikationen haben?",
+      "eng": "You are involved in a road accident. Are you obliged to give first aid to the injured persons if you do not have medical qualifications?",
+      "pl": "Czy będąc uczestnikiem wypadku drogowego, masz obowiązek udzielenia pomocy rannym nawet, jeśli nie masz kwalifikacji medycznych?",
+      "ua": "Якщо Ви потрапили в дорожньо-транспортну пригоду, чи зобов'язані Ви надавати допомогу постраждалим, навіть якщо у Вас немає медичної освіти?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 2 pkt 1 i ust. 3"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 44 ust. 2 pkt 1 i ust. 3 ustawy z dnia 20 czerwca 1997 r. \"Prawo o ruchu drogowym\" (j.t.Dz. U. z 2012 r. poz.1137)."
+  },
+  {
+    "id": 671,
+    "questionNumber": 3669,
+    "question": {
+      "de": "Hat der an dem Verkehrsunfall beteiligte Fahrzeuglenker die Pflicht, den Unfallopfern die notwendige Hilfe zu leisten?",
+      "eng": "As the driver of a vehicle involved in a road accident, are you obliged to give first aid to casualties?",
+      "pl": "Czy jako kierujący pojazdem, który uczestniczy w wypadku drogowym, masz obowiązek udzielenia niezbędnej pomocy jego ofiarom?",
+      "ua": "Як водій транспортного засобу, який потрапив у ДТП, чи зобов’язані Ви надавати необхідну допомогу потерпілим?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "dd46f40b60.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 2 pkt 1 i ust. 3"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 44 ust.2 pkt 1 i ust. 3 ustawy \"Prawo o ruchu drogowym\" (j.t.Dz. U. z 2012r. poz.1137)"
+  },
+  {
+    "id": 672,
+    "questionNumber": 3670,
+    "question": {
+      "de": "Als Fahrzeuglenker waren Sie an einem Verkehrsunfall beteiligt, in dem es Verletzte gibt. Haben Sie die Pflicht, das Fahrzeug von dem Unfallort zu entfernen, damit es den Verkehr nicht behindert?",
+      "eng": "When driving a vehicle involved in a road accident in which people are injured, are you obliged to remove the vehicle from the scene of the accident not to obstruct the traffic?",
+      "pl": "Czy uczestnicząc w wypadku, w którym są ranni, masz obowiązek usunąć swój pojazd z miejsca zdarzenia, aby nie utrudniał ruchu?",
+      "ua": "Якщо Ви потрапили в ДТП, в якій є постраждалі, чи зобов’язані Ви прибрати свій транспортний засіб з місця події, щоб він не заважав руху?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "3797264c86.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 2 pkt 2"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 44 ust. 2 pkt 2) ustawy z 20 czerwca 1997 roku Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 ze zm.)"
+  },
+  {
+    "id": 673,
+    "questionNumber": 3672,
+    "question": {
+      "de": "Sie waren an einem Verkehrsunfall beteiligt, in dem es Verletzte gibt. Haben Sie die Pflicht, an der Unfallstelle zu bleiben?",
+      "eng": "You have participated in a road accident in which people got injured. Are you obliged to remain at the scene of the accident?",
+      "pl": "Uczestniczyłeś w wypadku drogowym, w którym są ranni. Czy masz obowiązek pozostać na miejscu wypadku?",
+      "ua": "Ви потрапили в дорожньо-транспортну пригоду, в якій є постраждалі. Чи зобов'язані Ви залишатися на місці ДТП?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "3797264c86.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 2 pkt 3 i ust. 3"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 44 ust.2 pkt 3 i ust. 3 ustawy z dn. 20 czerwca 1997r. \"Prawo o ruchu drogowym\" (j.t. Dz. U. z 2012r. poz.1137)."
+  },
+  {
+    "id": 674,
+    "questionNumber": 3673,
+    "question": {
+      "de": "Als Fahrzeuglenker waren Sie an einem Verkehrsunfall beteiligt. Dürfen Sie die Unfallstelle verlassen, nachdem Sie den Verletzten Hilfe geleistet haben, aber die Polizei nocht nicht gekommen ist?",
+      "eng": "You have been involved in a road accident as the driver of the vehicle. After administering first aid to the injured persons, are you allowed to leave the scene of the accident before the arrival of the police?",
+      "pl": "Uczestniczyłeś w wypadku drogowym jako kierujący pojazdem. Czy po udzieleniu pomocy rannym wolno Ci oddalić się z miejsca zdarzenia przed przybyciem Policji?",
+      "ua": "Ви потрапили в ДТП як водій. Після надання допомоги постраждалому чи дозволено Вам залишити місце події до прибуття поліції?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "43bd9132d7.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 2 pkt 3"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 44 ust. 2 pkt 3 ustawy z dn. 20 czerwca 1997 r. \"Prawo o ruchu drogowym\" (j.t.Dz. U. z 2012 r. poz.1137 z późn. zm.)"
+  },
+  {
+    "id": 675,
+    "questionNumber": 3675,
+    "question": {
+      "de": "Als Fahrzeuglenker waren Sie an einem Verkehrsunfall beteiligt, in dem eine Person ums Leben gekommen ist. Haben Sie die Pflicht, am Unfallort zu bleiben?",
+      "eng": "As a vehicle driver involved in a road accident, in which a person got killed, are you obliged to remain at the scene of the accident?",
+      "pl": "Jako kierujący pojazdem uczestniczyłeś w wypadku drogowym, w którym jest osoba zabita. Czy masz obowiązek pozostać na miejscu wypadku?",
+      "ua": "Ви, як водій, потрапили в ДТП, в якій загинула людина. Чи зобов'язані Ви залишатися на місці ДТП?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "43bd9132d7.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 2 pkt 3"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 44 ust. 2 pkt 3 ustawy z dn. 20 czerwca 1997 r. \"Prawo o ruchu drogowym\" (j.t. Dz. U. z 2012 r. poz.1137 z późn. zm.)"
+  },
+  {
+    "id": 987,
+    "questionNumber": 4600,
+    "question": {
+      "de": "Ist die Telefonnummer 112 eine überall in Polen geltende Notrufnummer für alle Rettungsdienste?",
+      "eng": "Is the number 112 an all-Poland emergency number for all emergency services?",
+      "pl": "Czy numer telefonu 112 jest ogólnopolskim numerem alarmowym dla wszystkich służb ratowniczych?",
+      "ua": "Чи номер телефону 112 є загальнонаціональним номером для всіх видів екстреної допомоги?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "special",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": "art. 129 ust. 1 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne (Dz. U. z 2014 r. poz. 243, z późn zm.)\nArt. 129. 1. Ustala się numer \"112\" jako wspólny numer alarmowy dla wszystkich służb ustawowo powołanych do niesienia pomocy."
+  },
+  {
+    "id": 1198,
+    "questionNumber": 6292,
+    "question": {
+      "de": "Dürfen Sie bei einem Unfall mit Verletzten, an dem Sie beteiligt sind, sich vom Unfallort entfernen, nachdem Sie die Rettungsdienste angerufen haben?",
+      "eng": "If you're involved in a car accident in which there are injured persons, can you leave the scene of the accident once the ambulance service has been called?",
+      "pl": "Czy jako uczestnik wypadku drogowego, w którym są ranni, po wezwaniu służb ratunkowych masz prawo oddalić się z miejsca zdarzenia?",
+      "ua": "Як учасник ДТП, в якій є травмовані, чи маєте Ви право покинути місце ДТП після виклику рятувальних служб?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "60b76396ce.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 2 pkt. 3"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 44 ust. 2 pkt. 3 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1199,
+    "questionNumber": 6293,
+    "question": {
+      "de": "Sind Sie verpflichtet bei einem Unfall mit Toten, an dem Sie beteiligt sind, nach der Benachrichtigung der Rettungsdienste am Unfallort zu bleiben?",
+      "eng": "If you're involved in a car accident in which there are fatalities, are you obliged to remain on the scene of the accident after the ambulance service had been called?",
+      "pl": "Czy uczestnicząc w wypadku drogowym, w którym są zabici, po zawiadomieniu służb ratunkowych masz obowiązek pozostać na miejscu wypadku?",
+      "ua": "Якщо Ви - учасник ДТП, в якій загинули люди, чи зобов’язані Ви залишатися на місці ДТП після виклику рятувальних служб?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "c3ee223d6d.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 2 pkt. 3"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 44 ust. 2 pkt. 3 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1200,
+    "questionNumber": 6294,
+    "question": {
+      "de": "Dürfen Sie bei einem Unfall mit Verletzten, an dem Sie beteiligt sind, das Fahrzeug von der Unfallstelle entfernen, damit der Verkehr nicht gehindert wird?",
+      "eng": "If you're involved in a car accident in which there are injured parties, can you remove your car from the scene of the accident so that it does not create an obstacle to traffic?",
+      "pl": "Czy jako uczestnik wypadku drogowego, w którym są ranni, masz prawo usunąć pojazd z miejsca zdarzenia, aby nie tamować ruchu?",
+      "ua": "Як учасник ДТП, в якій є постраждалі, чи маєте Ви право прибрати транспортний засіб з місця події, щоб не блокувати рух?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "91232c1fd8.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 2 pkt 2 i 3"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 44 ust. 2 pkt 2) i 3) ustawy z 20 czerwca 1997 roku Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 ze zm.)"
+  },
+  {
+    "id": 1201,
+    "questionNumber": 6295,
+    "question": {
+      "de": "Sollen Sie bei Beteiligung an einem Unfall mit Verletzten das Fahrzeug an der Unfallstelle lassen?",
+      "eng": "If you're involved in a car accident in which there are injured persons, are you obliged to leave your car at the scene of the accident?",
+      "pl": "Czy jako uczestnik wypadku drogowego, w którym są ranni, masz obowiązek pozostawić pojazd w miejscu zdarzenia?",
+      "ua": "Чи зобов’язані Ви, як учасник ДТП, в якій є постраждалі, залишити свій транспортний засіб на місці ДТП?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "ad7a5f2ee4.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 2 pkt 2"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 44 ust. 2 pkt. 2 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1202,
+    "questionNumber": 6296,
+    "question": {
+      "de": "Sind Sie bei Beteiligung an einem Unfall ohne Toten und Verletzten verpflichtet, die Polizei zu rufen?",
+      "eng": "If you're involved in a car accident in which there are no injuries or fatalities, are you obliged to call the Police?",
+      "pl": "Czy jako uczestnik wypadku drogowego, w którym nie ma zabitych lub rannych, masz obowiązek wezwać Policję?",
+      "ua": "Як учасник ДТП, в якій ніхто не загинув і не постраждав, чи зобов’язані Ви викликати поліцію?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "7debd2b72f.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 1"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 44 ust. 1 ustawy z 20 czerwca 1997 roku Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 ze zm.)"
+  },
+  {
+    "id": 1203,
+    "questionNumber": 6297,
+    "question": {
+      "de": "Sind Sie bei Beteiligung an einem Unfall ohne Toten und Verletzten verpflichtet, das Fahrzeug von der Unfallstelle unverzüglich zu entfernen?",
+      "eng": "If you're involved in a car accident in which there are no injuries or fatalities, are you obliged to immediately remove your car from the scene of the accident?",
+      "pl": "Czy jako uczestnik wypadku drogowego, w którym nie ma zabitych lub rannych, masz obowiązek niezwłocznie usunąć pojazd z miejsca zdarzenia?",
+      "ua": "Як учасник дорожньо-транспортної пригоди, в якій ніхто не загинув і не постраждав, чи зобов’язані Ви негайно прибрати транспортний засіб з місця ДТП?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "9a39efe766.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 1 pkt 3"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 44 ust. 1 pkt. 3 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1204,
+    "questionNumber": 6298,
+    "question": {
+      "de": "Sind Sie bei Beteiligung an einem Unfall mit Verletzten verpflichtet, Rettungsdienste zu rufen und den Beschädigten notwendige Hilfe zu leisten?",
+      "eng": "If you're involved in a car accident in which there are injured parties, are you obliged to call the emergency service and provide the necessary assistance to the victims?",
+      "pl": "Czy jako uczestnik wypadku drogowego, w którym są ranni, masz obowiązek wezwać służby ratunkowe oraz udzielić niezbędnej pomocy poszkodowanym?",
+      "ua": "Як учасник дорожньо-транспортної пригоди, в якій є травмовані, чи зобов’язані Ви викликати рятувальні служби та надати необхідну допомогу постраждалим?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "92caa6b4fd.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 2 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 44 ust. 2 pkt. 1 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1205,
+    "questionNumber": 6299,
+    "question": {
+      "de": "Sind Sie bei Beteiligung an einem Unfall verpflichtet, Ihre Personaldaten anzugeben, wenn das ein anderer Unfallbeteiligte von Ihnen verlangt?",
+      "eng": "If you're involved in a car accident, are you obliged to provide your personal details at the request of the second party involved in the same accident?",
+      "pl": "Czy jako uczestnik wypadku drogowego masz obowiązek podać swoje dane personalne na żądanie innej osoby, która brała w nim udział?",
+      "ua": "Як учасник ДТП, чи зобов’язані Ви надати свої персональні дані на вимогу іншої особи-учасника ДТП?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "b2d3dfb844.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 1 pkt 4"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 44 ust. 1 pkt. 4 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1206,
+    "questionNumber": 6300,
+    "question": {
+      "de": "Sollen Sie die Warnblinkanlage und - falls das Fahrzeug damit nicht ausgestattet ist - das Standlicht einschalten, wenn Sie das Fahrzeug infolge einer Panne auf einer Schnellsstraße halten muss?",
+      "eng": "If you have stopped your vehicle on an expressway due to a breakdown, must you switch on your emergency lights, and if the vehicle is not so equipped, your position lights?",
+      "pl": "Czy zatrzymując na drodze ekspresowej pojazd, który uległ awarii, masz obowiązek włączyć światła awaryjne, a w razie, gdy nie jest w nie wyposażony - światła pozycyjne?",
+      "ua": "Якщо Ви зупиняєте на швидкісній дорозі (S) свій транспортний засіб, тому що він поламався, чи зобов’язані Ви увімкнути ліхтарі аварійної сигналізації, а якщо Ваш транспортний засіб ними не обладнаний, габаритні вогні?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "55d51bb318.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "A1",
+      "A2",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 50 ust. 2 pkt 1 lit. a"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 50 ust. 2 pkt 1) lit. a) ustawy z 20 czerwca 1997 roku Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 ze zm.)"
+  },
+  {
+    "id": 1207,
+    "questionNumber": 6301,
+    "question": {
+      "de": "Ist das Aufstellen eines Warndreiecks in der Entfernung von 30-50 m hinter dem Fahrzeug bei einer Panne auf der Schnellstraße richtig?",
+      "eng": "Is it correct to place a warning triangle at a distance of 30-50 m behind the car, if the car breaks down on an express road?",
+      "pl": "Czy postąpisz właściwie umieszczając ostrzegawczy trójkąt odblaskowy w odległości 30-50 m za pojazdem, który uległ awarii na drodze ekspresowej?",
+      "ua": "Чи правильно Ви вчините, поставивши попереджувальний світловідбиваючий трикутник 30-50 м позаду транспортного засобу, який зламався на швидкісній (S) дорозі ?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "2e8e66e267.jpg",
+    "categories": [
+      "B",
+      "C",
+      "D",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 50 ust. 2 pkt 1 lit. b"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 50 ust. 2 pkt 1) lit. b) ustawy z 20 czerwca 1997 roku Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 ze zm.)"
+  },
+  {
+    "id": 1208,
+    "questionNumber": 6302,
+    "question": {
+      "de": "Sollen Sie bei der Beteiligung an einem Unfall auf der Autobahn das Stehenbleiben des von Ihnen gefahrenen Fahrzeugs durch Einschalten der Warnblickanlage ankündigen?",
+      "eng": "If you're involved in an accident on a motorway, do you have to signal the fact that your car is immobilized by turning on the emergency lights?",
+      "pl": "Czy na autostradzie masz obowiązek włączyć światła awaryjne unieruchomionego z powodu wypadku pojazdu, którym kierujesz?",
+      "ua": "Чи зобов'язані Ви на автомагістралі (А) вмикати аварійну світлову сигналізацію на транспортному засобі, яким Ви керуєте, але який знерухомлений через аварію?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "0a637b185f.jpg",
+    "categories": [
+      "B",
+      "C",
+      "D",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 50 ust. 2 pkt 1 lit. a"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 50 ust. 2 pkt 1) lit. a) ustawy z 20 czerwca 1997 roku Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 ze zm.)"
+  },
+  {
+    "id": 1209,
+    "questionNumber": 6303,
+    "question": {
+      "de": "Sollen Sie in dieser Situation beim Parken eines beschädigten Fahrzeugs auf einer Straße außerhalb geschlossener Ortschaft ein Warndreieck hinter dem Fahrzeug in der Entfernung von 150 m aufstellen?",
+      "eng": "In the situation that you see here, while you park a broken-down car on the road outside a built-up area, are you obliged to place a warning triangle behind it at a distance of 150 m?",
+      "pl": "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?",
+      "ua": "Чи зобов'язані Ви, в такій ситуації, розмістити попереджувальний світловідбиваючий трикутник позаду пошкодженого транспортного засобу на відстані 150 м від нього, якщо транспортний засіб стоїть на дорозі поза населеним пунктом?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "1f50063ba1.jpg",
+    "categories": [
+      "B",
+      "C",
+      "D",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 50 ust. 2 pkt 2 lit.a"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 50 ust. 2 pkt. 2 lit.a Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1210,
+    "questionNumber": 6304,
+    "question": {
+      "de": "Sollen Sie beim Halten des beschädigten Fahrzeugs außerhalb geschlossener Ortschaft ein Warndreieck unmittelbar hinter oder auf dem Fahrzeug aufstellen?",
+      "eng": "If you park a broken-down car outside a built-up area, are you obliged to place a warning triangle immediately behind the car or on it?",
+      "pl": "Czy w tej sytuacji, podczas postoju uszkodzonego pojazdu poza obszarem zabudowanym, masz obowiązek umieścić ostrzegawczy trójkąt odblaskowy bezpośrednio za pojazdem lub na nim ?",
+      "ua": "Чи зобов'язані Ви розмістити попереджувальний світловідбиваючий трикутник безпосередньо за транспортним засобом або на транспортному засобі, якщо пошкоджений транспортний засіб стоїть поза населеним пунктом?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "f21321ad68.jpg",
+    "categories": [
+      "B",
+      "C",
+      "D",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 50 ust. 2 pkt 2 lit.a"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 50 ust. 2 pkt. 2a Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1211,
+    "questionNumber": 6305,
+    "question": {
+      "de": "Sollen Sie beim Parken des beschädigten Fahrzeugs außerhalb geschlossener Ortschaft auf einer befestigten Straße das eingeschaltete Abblendlicht lassen?",
+      "eng": "While parking a broken-down car on a paved road outside a built-up area, do you have to leave the low-beam lights on?",
+      "pl": "Czy podczas postoju uszkodzonego pojazdu na drodze twardej poza obszarem zabudowanym musisz pozostawić włączone światła mijania?",
+      "ua": "Чи потрібно залишати увімкненим ближнє світло фар, коли пошкоджений автомобіль стоїть на дорозі з твердим покриттям за межами населеного пункту?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "02eda007ce.jpg",
+    "categories": [
+      "B",
+      "C",
+      "D",
+      "T",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 50 ust. 2 pkt 2 lit.a"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 50 ust. 2 pkt. 2a Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1212,
+    "questionNumber": 6306,
+    "question": {
+      "de": "Sind Sie in dieser Situation verpflichtet, das Parken des beschädigten Fahrzeugs auf einer Straße, die keine Schnellstraße ist, zu signalisieren, wenn das Fahrzeug aus genügender Entfernung erkennbar ist?",
+      "eng": "In the presented situation, are you obliged to signal the fact that you have parked a broken-down car on a road which is not an express road, if the car may be seen from a sufficient distance?",
+      "pl": "Czy w tej sytuacji masz obowiązek sygnalizować postój widocznego z dostatecznej odległości, uszkodzonego pojazdu, na drodze, która nie jest drogą ekspresową?",
+      "ua": "Чи зобов’язані Ви, у цій ситуації, сигналізувати про зупинку пошкодженого транспортного засобу, який видно з достатньої віддалі на дорозі, яка не є швидкісною (S) дорогою?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "b460047c10.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 50 ust. 1 pkt 2 lit.a"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 50 ust. 1 pkt. 2 lit.a Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1213,
+    "questionNumber": 6307,
+    "question": {
+      "de": "Soll das Parken eines beschädigten Fahrzeugs auf einer für den Verkehr gesperrten Fläche entsprechend angekündigt werden?",
+      "eng": "Should you signal the fact of parking a broken-down car on an area excluded from driving?",
+      "pl": "Czy masz obowiązek odpowiednio sygnalizować postój uszkodzonego pojazdu na powierzchni wyłączonej z ruchu?",
+      "ua": "Чи зобов'язані Ви подавати відповідні сигнали, коли пошкоджений транспортний засіб стоїть на закритій для руху території?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "040057f2fb.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 50 ust. 2 pkt 2 lit. b"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 50 ust. 2 pkt 2) lit. b) ustawy z 20 czerwca 1997 roku Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 ze zm.)"
+  },
+  {
+    "id": 1214,
+    "questionNumber": 6308,
+    "question": {
+      "de": "Sollen Sie ein Fahrzeug, das durch eine technische Störung liegen geblieben ist, vom Übergang unverzüglich entfernen und soweit dies möglich ist, den Lokomotivführer warnen?",
+      "eng": "In cases of breakdown, must you immediately remove the vehicle from the crossing and if this is not possible, should you warn the engine driver of the rail vehicle?",
+      "pl": "Czy w tej sytuacji, w przypadku unieruchomienia pojazdu z powodu awarii, masz obowiązek niezwłocznie usunąć go z przejazdu, a jeśli jest to niemożliwe, ostrzec o zagrożeniu kierującego pojazdem szynowym?",
+      "ua": "Чи у цій ситуації, якщо транспортний засіб зупинився через несправність (заглох на переїзді), чи зобов'язані Ви негайно прибрати його з переїзду або, якщо це неможливо, попередити водія рейкового транспортного засобу про небезпеку?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "0e8e931684.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 4"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 28 ust. 4 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1215,
+    "questionNumber": 6309,
+    "question": {
+      "de": "Ist ein Fahrzeug, das durch eine technische Störung liegen geblieben ist, vom Übergang unverzüglich zu entfernen?",
+      "eng": "In the event of immobilization of the car due to a technical problem on a railway crossing, do you have to immediately move the car from the railway crossing?",
+      "pl": "Czy w tej sytuacji masz obowiązek niezwłocznie usunąć pojazd z przejazdu tramwajowego?",
+      "ua": "Чи зобов'язані Ви, у цій ситуації, негайно прибрати транспортний засіб з трамвайного переїзду?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "304ae5ada6.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 6"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 28 ust. 6 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1216,
+    "questionNumber": 6310,
+    "question": {
+      "de": "Sind Sie bei der Beteiligung an einem Unfall verpflichtet, die Personaldaten des Fahrzeugbesitzers anzugeben, wenn das ein anderer Unfallbeteiligter verlangt?",
+      "eng": "If you're involved in a car accident, are you obliged to provide the details of the car owner at the request of another person involved in such accident?",
+      "pl": "Czy uczestnicząc w wypadku drogowym masz obowiązek podać dane właściciela pojazdu na żądanie innej osoby uczestniczącej w tym wypadku?",
+      "ua": "Якщо Ви потрапили в дорожньо-транспортну пригоду, чи зобов’язані Ви повідомляти дані власника транспортного засобу на вимогу іншої особи, учасника дорожньо-транспортної пригоди?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "2120d8a70c.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 1 pkt 4"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 44 ust. 1 pkt. 4 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1217,
+    "questionNumber": 6311,
+    "question": {
+      "de": "Sind Sie bei der Beteiligung an einem Unfall verpflichtet, die Angaben über die Haftpflichtversicherung des Fahrzeuges anzugeben, wenn das ein anderer Unfallbeteiligter verlangt?",
+      "eng": "If you're involved in a car accident, are you obliged to provide the details concerning motor third-party liability insurance at the request of another person involved in the accident?",
+      "pl": "Czy uczestnicząc w wypadku drogowym, masz obowiązek podać dane dotyczące umowy odpowiedzialności cywilnej pojazdu, gdy żąda tego inna osoba, która bierze udział w zdarzeniu?",
+      "ua": "Якщо Ви потрапили в дорожньо-транспортну пригоду, чи зобов’язані Ви надавати дані що стосуються договору цивільно-правової відповідальності власника транспортного засобу на вимогу іншої особи, учасника дорожньо-транспортної пригоди?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "5278cde144.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 1 pkt 4"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 44 ust. 1 pkt. 4 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1218,
+    "questionNumber": 6312,
+    "question": {
+      "de": "Sollen Sie bei der Beteiligung an einem Unfall auf der Autobahn, das Liegenbleiben des von Ihnen gefahrenen Fahrzeugs durch Aufstellen eines Warndreiecks in der Entfernung von 100 m hinter dem Fahrzeug ankündigen?",
+      "eng": "If you're involved in an accident on a motorway, are you obliged to signal the fact that your car is immobilized by placement of a warning triangle 100 m behind the car?",
+      "pl": "Czy w przypadku unieruchomienia na autostradzie kierowanego przez siebie pojazdu, masz obowiązek to sygnalizować, umieszczając 100 m za nim ostrzegawczy trójkąt odblaskowy?",
+      "ua": "Якщо Ваш транспортний засіб зупинився на автомагістралі (А) через несправність, чи зобов’язані Ви сигналізувати про це, встановлюючи попереджувальний світловідбиваючий трикутник (знак аварійної зупинки) на віддалі 100 м позаду нього?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "e608f78e64.jpg",
+    "categories": [
+      "B",
+      "C",
+      "D",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 50 ust. 2 pkt 1 lit. b"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 50 ust. 2 pkt. 1 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1219,
+    "questionNumber": 6314,
+    "question": {
+      "de": "Darf beim Abschleppen eines Fahrzeugs die Warnblinkanlage benutzt werden?",
+      "eng": "Can you use emergency lights while towing a vehicle?",
+      "pl": "Czy podczas holowania pojazdu wolno Ci używać świateł awaryjnych?",
+      "ua": "Чи дозволено Вам застосовувати аварійну світлову сигналізацію під час буксирування транспортного засобу?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "fc1a39aac4.jpg",
+    "categories": [
+      "B",
+      "C",
+      "D",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 31 ust.1 pkt 2 i pkt 5"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 31 ust.1 pkt 2 i 5 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1220,
+    "questionNumber": 6315,
+    "question": {
+      "de": "Dürfen Sie, wenn Sie an einen Unfallort gelangen, diesen auf diese Weise absichern, dass Sie Ihr Auto mit eingeschalteter Warnblinkanlage entsprechend aufstellen?",
+      "eng": "Once you reach an accident spot, can you secure such a spot by appropriately positioning your car and turning on your emergency lights?",
+      "pl": "Czy masz prawo zabezpieczyć miejsce wypadku, do którego dojechałeś, ustawiając odpowiednio swój samochód i włączając światła awaryjne?",
+      "ua": "Чи маєте Ви право відгородити місце ДТП, до якого Ви доїхали, розмістивши свій автомобіль відповідним чином і увімкнувши аварійну світлову сигналізацію?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "e03cb90efc.jpg",
+    "categories": [
+      "B",
+      "C",
+      "D",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 1 pkt 2\nart. 50 ust. 2"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 44 ust. 1 pkt. 2 i art. 50 ust. 2 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)\nProgram szkolenia"
+  },
+  {
+    "id": 1221,
+    "questionNumber": 6316,
+    "question": {
+      "de": "Kann der Konsum von Amphetamin die Neigung des Fahrers zum riskanten und aggressiven Verhalten erhöhen?",
+      "eng": "Can the consumption of amphetamines increase the driver's tendency of risky and aggressive behaviour?",
+      "pl": "Czy spożycie amfetaminy może zwiększać skłonność kierowcy do ryzykownych i agresywnych zachowań?",
+      "ua": "Чи може вживання амфетаміну збільшити схильність водія до ризикованої та агресивної поведінки?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "f894a33cab.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": "Program szkolenia"
+  },
+  {
+    "id": 1222,
+    "questionNumber": 6317,
+    "question": {
+      "de": "Kann die Einnahme der Beruhigungs- und Schlafmittel die Kontrolle der Fahrspur durch den Fahrer beeinträchtigen?",
+      "eng": "Can the use of tranquilisers and sleeping pills affect the driver's control of the trajectory of the car?",
+      "pl": "Czy zażycie leków uspokajających i nasennych, może zaburzać u kierującego kontrolę toru jazdy?",
+      "ua": "Чи може вживання седативних та снодійних препаратів вплинути на здатність водія контролювати процес керування автомобілем?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "ec6c1d71ea.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": "Metodyka badań kierowców"
+  },
+  {
+    "id": 1223,
+    "questionNumber": 6318,
+    "question": {
+      "de": "Wirkt sich der konsumierte Alkohol auf eine Änderung des Sichtfeldes des Fahrzeugführers aus?",
+      "eng": "Can consuming alcohol affect a driver's field of vision?",
+      "pl": "Czy spożyty alkohol wpływa na zmianę pola widzenia kierującego pojazdem?",
+      "ua": "Чи впливає вживання алкоголю на зміну поля зору водія?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": "Program szkolenia"
+  },
+  {
+    "id": 1224,
+    "questionNumber": 6320,
+    "question": {
+      "de": "Haben psychoaktive Stoffe (u.a. \"Dope-Mittel\") einen Einfluss auf die Fähigkeit einer sicheren Fahrzeugführung auch bei sehr erfahrenen Fahrern?",
+      "eng": "Do psychoactive substances (such as \"speed\") affect the ability of safe driving in even the most experienced drivers?",
+      "pl": "Czy substancje psychoaktywne (m. in. \"dopalacze\") wpływają na zdolność bezpiecznego kierowania pojazdem nawet przez najbardziej doświadczonych kierowców?",
+      "ua": "Чи впливають психоактивні речовини (включно з дозволеними наркотичними речовинами) на здатність навіть найдосвідченіших водіїв безпечно керувати автомобілем?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "2eecac9310.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": "Ustawa z dn. 29 lipca 2005r. o przeciwdziałaniu narkomanii (Dz. U. Nr 179 poz. 1485 z późn. zm.) oraz rozp. RM z dn. 22 marca 2011r. w sprawie Krajowego Programu Przeciwdziałania Narkomanii na lata 2011-2016 (Dz. U. Nr 78 poz. 428 z 2011r.)"
+  },
+  {
+    "id": 1225,
+    "questionNumber": 6321,
+    "question": {
+      "de": "Dürfen Sie in jedem Fall nach Einnahme eines Medikaments, das vom Arzt verordnet ist, das Fahrzeug führen?",
+      "eng": "Can you drive a vehicle after taking medication prescribed by a doctor in every situation?",
+      "pl": "Czy w każdym przypadku, po zażyciu leku przepisanego przez lekarza, możesz kierować pojazdem?",
+      "ua": "Чи завжди можна керувати транспортним засобом після прийому ліків, призначених лікарем?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "7a9ef48dba.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 45 ust.1 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 45 ust.1 pkt 1 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)\nart. 87 K.w. i 178a K.k."
+  },
+  {
+    "id": 1226,
+    "questionNumber": 6322,
+    "question": {
+      "de": "Sollen Sie sich vergewissern, wenn Sie ein Fahrzeug nach der Einnahme von Medikamenten führen wollen, dass sie keine negativen Auswirkungen auf Ihren psychophysischen Zustand haben?",
+      "eng": "If you intend to drive a vehicle after taking medications, should you make sure that they do not adversely affect your psychophysical condition?",
+      "pl": "Czy zamierzając kierować pojazdem po zażyciu leków, powinieneś upewnić się, że nie mają one negatywnego wpływu na twój stan psychofizyczny?",
+      "ua": "Якщо Ви збираєтеся сісти за кермо після прийому ліків, чи повинні Ви переконатися, що вони не мають негативного впливу на ваш психофізичний стан?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "c59fed871a.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 45 ust.1 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 45 ust.1 pkt 1 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1227,
+    "questionNumber": 6323,
+    "question": {
+      "de": "Soll man die Fahrt auf einer langen Strecke fortzusetzen, wenn man beginnt, müde und schläfrig zu sein?",
+      "eng": "If you start feeling tired and drowsy during a long trip, should you continue driving?",
+      "pl": "Czy powinieneś kontynuować jazdę, jeżeli podczas pokonywania długiej trasy zaczynasz odczuwać zmęczenie i senność?",
+      "ua": "Чи повинні Ви продовжувати водіння, якщо Ви починаєте відчувати втому та сонливість під час довгої їзди?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "1e7ce20797.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "A1",
+      "A2",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": "Zagadnienie nienormowane"
+  },
+  {
+    "id": 1853,
+    "questionNumber": 7130,
+    "question": {
+      "de": "Ist es  beim Verwenden des Autofeuerlöschers richtig, eine volle Öffnung der Motorhaube zu vermeiden?",
+      "eng": "When using the car extinguisher, is it proper to avoid full opening of the bonnet?",
+      "pl": "Czy ze względów bezpieczeństwa wskazane jest, aby używając gaśnicy samochodowej, unikać pełnego otwarcia pokrywy komory silnika?",
+      "ua": "Чи з міркувань безпеки доцільно уникати повного відкриття капота під час застосування вогнегасника?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "8046f84c40.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": "Instrukcja użycia gaśnicy"
+  },
+  {
+    "id": 1854,
+    "questionNumber": 7131,
+    "question": {
+      "de": "Ist es in der dargestellten Situation begründet, zu überprüfen, ob der Unfallverursacher, die Notbremse angezogen und den Motor abgestellt hat?",
+      "eng": "Is it fully justifiable in the presented situation to check if the accident perpetrator had applied emergency brake and turned off the engine?",
+      "pl": "Czy w tej sytuacji uzasadnione jest sprawdzenie, czy sprawca wypadku zaciągnął hamulec awaryjny i wyłączył silnik?",
+      "ua": "Чи варто в даній ситуації перевірити, чи винуватець ДТП затягнув ручне гальмо та заглушив двигун?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "10156dce6f.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": "Wytyczne Polskiej Rada Resuscytacji 2010 – bezpieczeństwo własne, poszkodowanego i miejsca zdarzenia"
+  },
+  {
+    "id": 1878,
+    "questionNumber": 7166,
+    "question": {
+      "de": "Sollen Sie hinter einem Fahrzeug, das durch eine Panne auf einer so gekennzeichneten Straße liegenbleibt, ein reflektierendes Warndreieck in einer Entfernung von 100 m aufstellen?",
+      "eng": "If you need to park the car on a road marked like this because it has broken down, are you obliged to place a warning triangle behind it within a distance of 100 m?",
+      "pl": "Czy zatrzymując na tej drodze pojazd, który uległ awarii, masz obowiązek umieścić ostrzegawczy trójkąt odblaskowy w odległości 100 m za nim?",
+      "ua": "Чи зобов'язані Ви, зупиняючи транспортний засіб, що вийшов з ладу на цій дорозі, розмістити попереджувальний світловідбиваючий трикутник (знак аварійної зупинки) за 100 м позаду нього?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "4fe019f1b7.jpg",
+    "categories": [
+      "B",
+      "C",
+      "D",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 50 ust. 2 pkt. 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 50 ust. 2 pkt. 1 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1879,
+    "questionNumber": 7167,
+    "question": {
+      "de": "Sollen Sie eine Panne des Kraftfahrzeugs auf einer Schnellsstraße während der ganzen Zeit seines Liegenbleibens signalisieren?",
+      "eng": "Are you obliged to indicate a break-down of a motor vehicle on the express road throughout the time the vehicle remains parked there?",
+      "pl": "Czy na drodze ekspresowej, podczas postoju pojazdu silnikowego, który uległ awarii, masz obowiązek przez cały czas to sygnalizować?",
+      "ua": "Якщо Ви стоїте своїм транспортним засобом, що вийшов з ладу, на швидкісній дорозі (S), то чи зобов’язані Ви постійно про це сигналізувати?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "2a9edf6325.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "A1",
+      "A2",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 50 ust. 3"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 50 ust. 3 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1919,
+    "questionNumber": 7235,
+    "question": {
+      "de": "Wenn Sie das Fahrzeug im Zustand der Aufregung lenken, erhöhen sich die Präzision und Richtigkeit Ihrer Reaktionen in einer gefährlichen Situation?",
+      "eng": "When driving in a state of emotional arousal, does the precision and accuracy of your reactions in dangerous situation improve?",
+      "pl": "Czy kierując pojazdem w stanie pobudzenia emocjonalnego, zwiększasz precyzję i trafność swoich reakcji w sytuacji niebezpiecznej?",
+      "ua": "Коли Ви керуєте транспортним засобом в емоційно збудженому стані, чи підвищується точність і швидкість Ваших реакцій у небезпечній ситуації?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "e42a6a0b6b.mp4",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": "§ 1 pkt.1c załącznika nr 1 do Rozporządzenia Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie szkolenia osób ubiegających się o uprawnienia do kierowania pojazdami, instruktorów i wykładowców (Dz.U. z 2012r., poz.1019)."
+  },
+  {
+    "id": 1922,
+    "questionNumber": 7241,
+    "question": {
+      "de": "Sie waren in einen Autounfall mit Verletzten beteiligt. Dürfen Sie Handlungen vornehmen, die es erschweren würden, den Verlauf des Unfalls zu ermitteln?",
+      "eng": "You have participated in a car accident with casualties. Are you allowed to undertake actions which might hinder establishing the course of the accident?",
+      "pl": "Uczestniczyłeś w wypadku drogowym, w którym są ranni. Czy wolno Ci podejmować czynności, które mogłyby utrudnić ustalenie przebiegu wypadku?",
+      "ua": "Ви потрапили в ДТП, в якій є постраждалі. Чи маєте Ви право вчиняти дії, які можуть ускладнити встановлення перебігу ДТП?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "43bd9132d7.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 2 pkt 2 i ust. 3"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 44 ust. 2 pkt 2 i ust. 3 ustawy z dn. 20 czerwca 1997 r. \"Prawo o ruchu drogowym\" (j.t.Dz. U. z 2012 r. poz.1137 z późn. zm.)"
+  },
+  {
+    "id": 2069,
+    "questionNumber": 7433,
+    "question": {
+      "de": "Ist das Einschalten der Warnblinklichtanlage und das Aufstellen eines Warndreiecks  in einem Abstand von 50-70 Metern hinter dem Fahrzeug das ordnungsgemäße Signalisieren seiner Panne auf einer Autobahn?",
+      "eng": "Is switching on the emergency lights and placing a warning triangle at the distance of 50-70 m behind the vehicle the right way to indicate that it has broken-down on a motorway?",
+      "pl": "Czy włączenie świateł awaryjnych i umieszczenie trójkąta ostrzegawczego w odległości 50–70 metrów za pojazdem jest prawidłowym sygnalizowaniem jego awarii na autostradzie?",
+      "ua": "Чи увімкнення аварійної світлової сигналізації та розміщення попереджувального трикутника (знака аварійної зупинки) 50-70 метрів позаду транспортного засобу є правильним способом сигналізації про його несправність на автомагістралі (А)?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "0f62afb34a.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art.50 ust. 2 pkt 1 lit. b"
+        ]
+      }
+    ],
+    "additionalDescription": "Art.50 ust. 2 pkt 1 lit. b Ustawy prawo o ruchu drogowym (Dz.U. z 2012 r. poz.1137 j.t. z późn. zm.)"
+  },
+  {
+    "id": 2078,
+    "questionNumber": 7449,
+    "question": {
+      "de": "Sie sind an einem Unfall beteiligt, bei dem nur Ihr Fahrzeug beschädigt worden ist. Sind Sie dazu verpflichtet, das Fahrzeug sofort von der Unfallstelle zu entfernen, damit keine Gefahr von dem Fahrzeug für den Verkehr ausgeht und es den Verkehr nicht behindert?",
+      "eng": "You are involved in an accident in which only your vehicle was damaged. Are you obliged to remove it from the place of the accident, so that it does not block the traffic or pose a threat to other traffic users?",
+      "pl": "Uczestniczysz w wypadku, w którym uszkodzeniu uległ tylko Twój pojazd. Czy masz obowiązek niezwłocznego usunięcia go z miejsca wypadku, aby nie powodował zagrożenia lub tamowania ruchu?",
+      "ua": "Ви потрапили в аварію, в якій пошкоджено лише Ваш транспортний засіб. Чи зобов'язані Ви негайно прибрати його з місця аварії, щоб він не створював небезпеки для інших і не блокував рух?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "3cab674d06.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 44 ust. 1 pkt. 3"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 44 ust. 1 pkt. 3 Ustawy prawo o ruchu drogowym (Dz.U. z 2012 r. poz.1137 j.t. z późn. zm.)"
+  },
+  {
+    "id": 2192,
+    "questionNumber": 7642,
+    "question": {
+      "de": "Ist es zulässig, die Warnblinkanlage im schleppenden Fahrzeug einzuschalten?\t",
+      "eng": "Is turning on the warning lights permissible on the towing car?",
+      "pl": "Czy dopuszczalne jest włączenie świateł awaryjnych w pojeździe holującym?",
+      "ua": "Чи можна вмикати аварійну світлову сигналізацію на транспортному засобі, який буксирує?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "2de219dd87.jpg",
+    "categories": [
+      "B",
+      "C",
+      "D",
+      "T",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": "Art. 31 ust.1 pkt 2 i 5, art.. 50 ust. 2 Ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 z późn. zm.)"
+  },
+  {
+    "id": 2193,
+    "questionNumber": 7643,
+    "question": {
+      "de": "Sollen Sie bei der Suche nach Personen, die  beim Autounfall verletzt sein konnten, alle Räume des verunglückten Autos, einschließlich Kofferraum, zu prüfen?",
+      "eng": "When looking for the persons who might have been injured in a car accident, should you check all spaces of the crashed car, including the car boot?",
+      "pl": "Czy szukając osób, które mogły zostać ranne w wypadku drogowym, masz obowiązek sprawdzić wszystkie przestrzenie rozbitego pojazdu, łącznie z bagażnikiem?",
+      "ua": "Чи зобов’язані Ви перевірити всі місця розбитого автомобіля, включно з багажником, під час пошуку людей, які могли постраждати в ДТП?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "9bf9b157e0.jpg",
+    "categories": [
+      "B",
+      "C",
+      "D",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": "Art. 44 ust. 2 pkt 1 Ustawy Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108 poz. 908 z późn. zm.); Zalecenia: International Trauma Life Support. Ratownictwo przedszpitalne w urazach (ITLS), Emory Campbell (red.), Medycyna Praktyczna, Kraków 2009, wyd.1."
+  },
+  {
+    "id": 2194,
+    "questionNumber": 7645,
+    "question": {
+      "de": "Wenn man allein am Unfallort ist, soll man mit der Resuszitation  eines Betroffenen anfangen, ohne vorher den Rettungsdienst gerufen zu haben?",
+      "eng": "You are on your own on the scene of an accident in which an injured person needs resuscitation. Should you proceed to performing resuscitation without a prior call for help?",
+      "pl": "Czy powinieneś, bez wcześniejszego wezwania pomocy, rozpocząć resuscytację potrzebującej jej osoby rannej, gdy jesteś sam na miejscu wypadku drogowego?",
+      "ua": "Чи повинні Ви, спочатку почати робити штучне дихання потерпілому, який цього потребує, а лише потім дзвонити по допомогу на телефон екстрених служб, якщо окрім Вас на місці ДТП немає більше нікого?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "317390f3b7.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": "Wytyczne Polskiej Rady Resuscytacji (http://www.prc.krakow.pl/2010/)"
+  },
+  {
+    "id": 2195,
+    "questionNumber": 7646,
+    "question": {
+      "de": "Sollst du am Anfang des Gespräches mit der Person, die die Meldung über den Verkehrsunfall aufnimmt, Ihre Personaldaten bekannt geben?",
+      "eng": "When reporting a traffic accident to the alarm numer of the emergency services, should you provide your personal data?",
+      "pl": "Czy zgłaszając wypadek drogowy na numer alarmowy służb ratunkowych powinieneś udostępnić swoje dane identyfikacyjne?",
+      "ua": "Якщо Ви телефонуєте на номер екстреної служби з повідомленням про дорожньо-транспортну пригоду, чи повинні Ви подавати свої ідентифікаційні дані?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "f10fd00399.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": "Art. 44 ust. 2 pkt 1 Ustawy Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108 poz. 908 z późn. zm.); Wytyczne Polskiej Rady Resuscytacji (http://www.prc.krakow.pl/2010/)"
+  },
+  {
+    "id": 2196,
+    "questionNumber": 7647,
+    "question": {
+      "de": "Wird eine im Verkehrsunfall verletzte Person vor Wärmeverlust geschützt, wenn sie mit der thermischen Rettungsdecke, mit der goldenen Seite nach außen, zugedeckt wird?",
+      "eng": "Does covering a person injured in a road accident with a thermal insulation blanket with the golden side up protect him from heat loss?",
+      "pl": "Czy przykrycie kocem termoizolacyjnym odwróconym na wierzch złotą stroną chroni osobę ranną w wypadku drogowym przed utratą ciepła?",
+      "ua": "Чи захищає від втрати тепла людину, яка постраждала в дорожньо-транспортній пригоді, теплоізоляційна ковдра, вивернута золотистою стороною догори?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "782a6dbce5.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": "Art. 44 ust. 2 pkt 1 Ustawy Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108 poz. 908 z późn. zm.);Wytyczne Polskiej Rady Resuscytacji (http://www.prc.krakow.pl/2010/)"
+  },
+  {
+    "id": 2197,
+    "questionNumber": 7648,
+    "question": {
+      "de": "Ist eine verletzte Person, die wieder zu Atem gekommen ist, aber bewusstlos bleibt, in die stabile Seitenlage zu bringen?",
+      "eng": "Should a person who has regained his breath but is unconscious be placed in the recovery position?",
+      "pl": "Czy osobę ranną, która odzyskała oddech, ale jest nieprzytomna, należy ułożyć w pozycji bocznej ustalonej?",
+      "ua": "Чи пораненого, у якого відновилося дихання, але він далі без свідомості, необхідно покласти в бокове стабільне положення?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "7ac00f0796.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": "Art. 44 ust. 2 pkt 1 Ustawy Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108 poz. 908 z późn. zm.); Wytyczne Polskiej Rady Resuscytacji (http://www.prc.krakow.pl/2010/)"
+  },
+  {
+    "id": 2198,
+    "questionNumber": 7649,
+    "question": {
+      "de": "Darf man eine Verbrennung mit kaltem Wasser begießen?",
+      "eng": "Can you pour cold water onto a burn?",
+      "pl": "Czy wolno Ci polewać oparzenie zimną wodą?",
+      "ua": "Чи можна обливати опік холодною водою?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "01ec209d9a.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": "Art. 44 ust. 2 pkt 1 Ustawy Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108 poz. 908 z późn. zm.); Wytyczne Polskiej Rady Resuscytacji (http://www.prc.krakow.pl/2010/)"
+  },
+  {
+    "id": 2199,
+    "questionNumber": 7650,
+    "question": {
+      "de": "Darf man eine sterile Mullkompresse direkt auf die Wunde auflegen?",
+      "eng": "Can you put a sterile gauze compress directly on the wound?",
+      "pl": "Czy wolno Ci położyć bezpośrednio na ranę kompres z wyjałowionej gazy?",
+      "ua": "Чи можна класти стерильний марлевий компрес безпосередньо на рану?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "98c6e8aafa.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": "Art. 44 ust. 2 pkt 1 Ustawy Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108 poz. 908 z późn. zm.);Wytyczne Polskiej Rady Resuscytacji (http://www.prc.krakow.pl/2010/)"
+  },
+  {
+    "id": 2356,
+    "questionNumber": 8352,
+    "question": {
+      "de": "Soll man an solch einer Stelle in geschlossener Ortschaft das Verweilen des Kraftfahrzeugs im Falle seiner Beteiligung an einem Verkehrsunfall signalisieren?",
+      "eng": "You are involved in a motor accident in such a place on the road in a built-up area. Are you obliged to signal the stop of the motor vehicle?",
+      "pl": "Czy w takim miejscu na jezdni w obszarze zabudowanym masz obowiązek sygnalizować postój pojazdu silnikowego w razie uczestniczenia w wypadku drogowym?",
+      "ua": "Чи зобов'язані Ви в такому місці на проїжджій частині, в населеному пункті, сигналізувати про аварійну зупинку транспортного засобу, якщо потрапили в дорожньо-транспортну пригоду?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "dfb0068b06.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "Art. 50 ust. 1, pkt 2 lit. b)"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 50 ust. 1, pkt 2 lit. b) ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.)"
+  },
+  {
+    "id": 2387,
+    "questionNumber": 8416,
+    "question": {
+      "de": "Darf man das Fahrzeug mit dem Alkoholgehalt in der ausgeatmeten Luft über 0,1 mg in dm3 führen?",
+      "eng": "Are you allowed to drive a vehicle if the presence of alcohol in your breath exceeds 0.1 mg/dm³?",
+      "pl": "Czy masz prawo prowadzić pojazd gdy obecność alkoholu w wydychanym powietrzu w Twoim organizmie przekracza 0,1 mg w dm³?",
+      "ua": "Чи Ви маєте право керувати транспортним засобом, якщо вміст алкоголю у видихуваному Вами повітрі перевищує 0,1 мг в дм³?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "b640e36aea.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "Art. 45 ust. 1 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 45 ust. 1 pkt 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.) w zw. z Art. 46 ust. 2 pkt 2 ustawy z dnia 26 pazdźernika 1982 r. - Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 września 2012 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (tekst jednolity: Dz.U. 2012 nr 0 poz. 1356)"
+  },
+  {
+    "id": 2388,
+    "questionNumber": 8417,
+    "question": {
+      "de": "Darf man das Auto führen, wenn die Alkoholkonzentration im Blut des Fahrers 0,2‰ übersteigt?",
+      "eng": "Are you entitled to drive a vehicle if the blood alcohol concentration in your body exceeds 0.2 ‰?",
+      "pl": "Czy masz prawo prowadzić pojazd gdy stężenie alkoholu we krwi w Twoim organizmie przekracza 0,2‰?",
+      "ua": "Чи дозволяється керувати транспортним засобом, якщо вміст алкоголю в крові перевищує 0,2‰?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "b640e36aea.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "Art. 45 ust. 1 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 45 ust. 1 pkt 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.) w zw. z Art. 46 ust. 2 pkt 1 ustawy z dnia 26 pazdźernika 1982 r. - Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 20 września 2012 r. w sprawie ogłoszenia jednolitego tekstu ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (tekst jednolity: Dz.U. 2012 nr 0 poz. 1356)"
+  },
+  {
+    "id": 2389,
+    "questionNumber": 8418,
+    "question": {
+      "de": "Darf man nach jedem Medikament ohne Rezept Fahrzeuge führen?",
+      "eng": "Are you entitled to drive a vehicle after any drug available without a prescription?",
+      "pl": "Czy po każdym leku dostępnym bez recepty masz prawo prowadzić pojazd?",
+      "ua": "Чи після прийому кожного безрецептурного препарату дозволяється керувати автомобілем?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "8692b949c7.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": "Art. 45 ust. 1 pkt 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.)"
+  },
+  {
+    "id": 2390,
+    "questionNumber": 8419,
+    "question": {
+      "de": "Haften Sie für einen Verstoß, falls Sie das Fahrzeug nach dem Alkoholkonsum führen?",
+      "eng": "Is driving a vehicle under the influence of alcohol subject to violation?",
+      "pl": "Czy prowadząc pojazd w stanie po użyciu alkoholu podlegasz odpowiedzialności za wykroczenie?",
+      "ua": "Якщо Ви керуєте автомобілем, перебуваючи у стані алкогольного сп'яніння, чи передбачена з цього приводу відповідальність за правопорушення?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "b640e36aea.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "Art. 45 ust. 1 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 87 § 1 ustawy z dnia 20 maja 1971 r. - Kodeks wykroczeń (Dz.U. 1971 nr 12 poz. 114, z późn zm.) w zw. z Art. 45 ust. 1 pkt 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.)"
+  },
+  {
+    "id": 2576,
+    "questionNumber": 9791,
+    "question": {
+      "de": "Soll der Fahrer das Verweilen eines Kraftfahrzeugs bzw. Anhängers wegen Defekts bzw. Unfalls auf der Autobahn signalisieren?",
+      "eng": "Is the vehicle driver obliged to signal the stop of a motor vehicle or trailer as a result of damage or an accident on the highway?",
+      "pl": "Czy kierujący pojazdem jest obowiązany sygnalizować postój pojazdu silnikowego lub przyczepy z powodu uszkodzenia lub wypadku na autostradzie?",
+      "ua": "Чи зобов'язаний водій транспортного засобу сигналізувати про стоянку автомобіля або причепа з приводу пошкодження або ДТП на дорозі (увімкнути аварійну сигналізацію, поставити знак аварійної зупинки, тощо)?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "3aaec06e42.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 50 ust. 1 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 50 ust. 1 pkt 1 Ustawa z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym z późniejszymi zmianami"
+  },
+  {
+    "id": 2577,
+    "questionNumber": 9792,
+    "question": {
+      "de": "Soll der Fahrer das Verweilen eines Kraftfahrzeugs bzw. Anhängers wegen Defekts bzw. Unfalls auf einer Schnellstraße signalisieren?",
+      "eng": "Is the vehicle driver obliged to signal the stop of a motor vehicle or trailer due to damage or an accident on the expressway?",
+      "pl": "Czy kierujący pojazdem jest obowiązany sygnalizować postój pojazdu silnikowego lub przyczepy z powodu uszkodzenia lub wypadku na drodze ekspresowej?",
+      "ua": "Чи зобов'язаний водій транспортного засобу сигналізувати на швидкісній дорозі (S) про стоянку автотранспортного засобу або причепа у зв'язку з пошкодженням або аварією?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "3aaec06e42.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 50 ust. 1 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 50 ust. 1 pkt 1 Ustawa z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym z późniejszymi zmianami"
+  },
+  {
+    "id": 2579,
+    "questionNumber": 10030,
+    "question": {
+      "de": "Darf man nach dem Anhalten eines Fahrzeugs zur Kontrolle das Auto ohne Zustimmung des Kontrollierenden verlassen?",
+      "eng": "Upon stopping a vehicle for inspection, can the driver exit the vehicle without the permission of the traffic officer?",
+      "pl": "Czy po zatrzymaniu pojazdu do kontroli, kierujący pojazdem może z niego wysiąść bez pozwolenia kontrolującego?",
+      "ua": "Чи може водій вийти з транспортного засобу, зупиненого для контролю, без дозволу інспектора-контролера?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "c489d3a29c.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": "§ 18 ust 3 Rozporządzenie Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 30 grudnia 2002 r. w sprawie kontroli ruchu drogowego z późniejszymi zmianami."
+  },
+  {
+    "id": 2580,
+    "questionNumber": 10032,
+    "question": {
+      "de": "Soll der Fahrer nach dem Anhalten zur Kontrolle seine Hände am Lenkrad halten?",
+      "eng": "Upon stopping a vehicle for inspection, should the driver keep his or her hands on the steering wheel?",
+      "pl": "Czy po zatrzymaniu pojazdu do kontroli, kierujący pojazdem powinien trzymać ręce na kierownicy?",
+      "ua": "Чи повинен водій тримати руки на кермі після зупинки автомобіля для перевірки?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "c489d3a29c.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": "§ 18 ust. 2 pkt 2 Rozporządzenie Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 30 grudnia 2002 r. w sprawie kontroli ruchu drogowego z późniejszymi zmianami."
+  },
+  {
+    "id": 2765,
+    "questionNumber": 10513,
+    "question": {
+      "de": "Sie fahren 110 km/h. Sollen Sie in dieser Situation Ihre Geschwindigkeit senken?",
+      "eng": "You are driving at 110 km/h. Are you required in this situation to reduce your speed?",
+      "pl": "Poruszasz się z prędkością 110 km/h. Czy w tej sytuacji masz obowiązek zmniejszyć prędkość?",
+      "ua": "Ви рухаєтеся зі швидкістю 110 км/год. Чи зобов'язані Ви зменшити швидкість у цій ситуації?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "32c4c2c8aa.mp4",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3046,
+    "questionNumber": 11131,
+    "question": {
+      "de": "Wenn Sie an einem Verkehrsunfall beteiligt sind, sollen Sie die erste Hilfe leisten?",
+      "eng": "Are you obliged to provide first aid when involved in an accident in which someone is injured?",
+      "pl": "Czy uczestnicząc w wypadku, w którym jest ranny, masz obowiązek udzielenia pierwszej pomocy?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "4335d45379.jpg",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3079,
+    "questionNumber": 11194,
+    "question": {
+      "de": "Dürfen Sie ein leichtes Quad nach der Einnahme sog. weicher Drogen, also z.B. Marihuana führen?",
+      "eng": "Can you drive a light quadricycle after using soft drugs such as marijuana?",
+      "pl": "Czy możesz kierować czterokołowcem lekkim po użyciu narkotyków miękkich czyli np. marihuany?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3116,
+    "questionNumber": 11250,
+    "question": {
+      "de": "Wenn Sie an einem Verkehrsunfall beteiligt sind, sollen Sie dem Betroffenen erste Hilfe leisten?",
+      "eng": "Are you obliged to provide first aid to the injured party when involved in a road accident?",
+      "pl": "Czy będąc uczestnikiem wypadku drogowego masz obowiązek udzielić poszkodowanemu pierwszej pomocy?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "4335d45379.jpg",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3118,
+    "questionNumber": 11254,
+    "question": {
+      "de": "Darf der am Verkehrsunfall Betroffene die persönlichen Daten des Täters verlangen?",
+      "eng": "Is an injured party in a traffic accident entitled to request personal data of the offender?",
+      "pl": "Czy poszkodowany w wypadku drogowym ma prawo żądać danych personalnych sprawcy?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3119,
+    "questionNumber": 11255,
+    "question": {
+      "de": "Schützen Sie das Unfallopfer vor dem Abkühlen, wenn Sie es mit einer Thermoisolierungsdecke zudecken?",
+      "eng": "Will you be protecting the victim of an accident by covering him/her with a thermal insulating blanket?",
+      "pl": "Czy przykrywając ofiarę wypadku kocem termoizolacyjnym, ochronisz ją przed wychłodzeniem?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3120,
+    "questionNumber": 11256,
+    "question": {
+      "de": "Sollen Sie das Moped von der Straße entfernen, wenn Sie am Verkehrsunfall mit Verletzten oder Toten beteiligt sind?",
+      "eng": "Are you obliged to remove a moped from the road when you are involved in an accident in which someone is killed or injured?",
+      "pl": "Czy masz obowiązek usunąć z drogi motorower, gdy uczestniczysz w wypadku, w którym jest zabity lub ranny?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3121,
+    "questionNumber": 11258,
+    "question": {
+      "de": "Wenn Sie an einem Verkehrsunfall ohne Tote oder Verletzte beteiligt sind, sollen Sie Ihr Fahrzeug von der Straße entfernen?",
+      "eng": "When involved in a road accident in which there are no dead or injured persons, are you obliged to remove the vehicle from the road?",
+      "pl": "Czy uczestnicząc w wypadu drogowym, w którym nie ma zabitych lub rannych, masz obowiązek usunąć pojazd z drogi?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "42df7c2deb.jpg",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3122,
+    "questionNumber": 11259,
+    "question": {
+      "de": "Sollen Sie, falls Sie an einem Verkehrsunfall beteiligt sind, das Moped anhalten, ohne eine Gefahr zu verursachen?",
+      "eng": "When involved in a road accident, are you obliged to stop the moped without endangering safety?",
+      "pl": "Czy uczestnicząc w wypadku drogowym masz obowiązek zatrzymać motorower nie powodując zagrożenia bezpieczeństwa?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3123,
+    "questionNumber": 11261,
+    "question": {
+      "de": "Wenn Sie an einem Verkehrsunfall ohne Verwundete beteiligt sind, sollen Sie Polizei benachrichtigen?",
+      "eng": "When involved in an accident where there are no casualties, are you obliged to summon the police?",
+      "pl": "Czy biorąc udział w wypadku, w którym nie ma rannych, masz obowiązek wezwać Policję?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 1,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3141,
+    "questionNumber": 11408,
+    "question": {
+      "de": "Soll in der Situation der das Fahrzeug umfahrende Fahrer ggf. seine Geschwindigkeit reduzieren?",
+      "eng": "In this situation, should the driver pass the vehicle and reduce speed if necessary?",
+      "pl": "Czy w tej sytuacji kierujący omijając pojazd powinien w razie potrzeby zmniejszyć prędkość?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "f98a1adcb2.jpg",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3142,
+    "questionNumber": 11409,
+    "question": {
+      "de": "Sollen Sie in der Situation annehmen, dass hinter einem Servicewagen, der die Straßenarbeiten ausführt, ein Straßenarbeiter unerwartet auf die Straße kommen kann?",
+      "eng": "In this situation, should you assume that a road worker may unexpectedly step onto the road from behind a vehicle undertaking road repair work?",
+      "pl": "Czy w tej sytuacji powinieneś założyć, że zza pojazdu wykonującego roboty drogowe, może niespodziewanie na jezdnię wejść osoba wykonująca prace remontowe?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "70ff214def.jpg",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3143,
+    "questionNumber": 11412,
+    "question": {
+      "de": "Sind Sie in dieser Situation von der Pflicht freigestellt, gegenüber den Kindern das Prinzip des begrenzten Vertrauens anzuwenden, da sie unter Aufsicht eines Erwachsenen sind?",
+      "eng": "In this situation, are you exempt from the obligation to apply a cautious approach to children, because they are in the care of an adult?",
+      "pl": "Czy w tej sytuacji jesteś zwolniony z obowiązku stosowania wobec dzieci zasady ograniczonego zaufania, gdyż są one pod opieką osoby dorosłej?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "28ab4153de.jpg",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3144,
+    "questionNumber": 11413,
+    "question": {
+      "de": "Sollen Sie in dieser Situation die Fußgänger aufmerksam beobachten und den Kindern gegenüber das Prinzip des begrenzten Vertrauens anwenden?",
+      "eng": "In this situation, should you keep a close eye on pedestrians and adopt a cautious approach towards children?",
+      "pl": "Czy w tej sytuacji powinieneś uważnie obserwować pieszych, a wobec dzieci zastosować zasadę ograniczonego zaufania?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "2311883a67.jpg",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3145,
+    "questionNumber": 11415,
+    "question": {
+      "de": "Soll in der Situation der Fahrer voraussehen, dass hinter dem Fahrzeug ein Kind plötzlich auf die Straße laufen kann?",
+      "eng": "In this situation, should the driver anticipate that a child might suddenly run onto the road from behind the vehicle?",
+      "pl": "Czy w tej sytuacji kierujący pojazdem powinien przewidywać, że zza pojazdu może nagle wybiec na jezdnię dziecko?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "6733d558d3.jpg",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3146,
+    "questionNumber": 11417,
+    "question": {
+      "de": "Ist das Führen eines Mopeds nach dem Alkoholkonsum bzw. Konsum eines dem Alkohol ähnlich wirkenden Mittels immer verboten?",
+      "eng": "Is it always prohibited to drive a moped under the influence of alcohol or substances of similar effect to alcohol?",
+      "pl": "Czy kierowanie motorowerem w stanie po użyciu alkoholu lub środka działającego podobnie do alkoholu jest zawsze zabronione?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3147,
+    "questionNumber": 11418,
+    "question": {
+      "de": "Verursacht der Alkohol beim Mopedfahrer Überheblichkeit, die zum Leichtsinn auf der Straße führt und die Einschätzung der Abstände stört sowie die Reaktionszeit verlängert?",
+      "eng": "Does alcohol induce excessive self-confidence in a moped driver, which leads to bravado on the road as well as impairs distance assessment and increases reaction time?",
+      "pl": "Czy alkohol powoduje u kierującego motorowerem nadmierną pewność siebie prowadzącą do brawury na drodze oraz zaburza ocenę odległości i wydłuża czas reakcji?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3148,
+    "questionNumber": 11419,
+    "question": {
+      "de": "Verschlechtert der Alkoholkonsum durch den Quadfahrer die richtige Risikoeinschätzung beim Fahren mit dem Quad im Verkehr?",
+      "eng": "Does consumption of alcohol by a driver impair the ability to correctly assess risks on the road when driving a quadricycle?",
+      "pl": "Czy spożycie alkoholu przez kierującego pogarsza zdolność do prawidłowej oceny ryzyka na drodze podczas jazdy czterokołowcem?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3149,
+    "questionNumber": 11420,
+    "question": {
+      "de": "Sollten Sie vom Fahren mit dem Moped absehen, falls Sie Arzneimittel eingenommen haben, von denen Sie nicht wissen, welchen Einfluss sie auf Ihren Körper und eine sichere Führung der Fahrzeuge haben?",
+      "eng": "Should you refrain from driving a moped if you have taken medication of which you have no knowledge or information about how it affects the body and safe driving?",
+      "pl": "Czy powinieneś powstrzymać się od kierowania motorowerem, jeżeli zażyłeś leki, o których nie masz wiedzy lub informacji, jaki mają wpływ na organizm i bezpieczne kierowanie pojazdami?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3204,
+    "questionNumber": 11506,
+    "question": {
+      "de": "Darf man ein Fahrzeug abschleppen, das von einer Person gelenkt wird, die unter dem Einfluss von Alkohol steht?",
+      "eng": "Are you allowed to haul a vehicle being driven by an intoxicated person?",
+      "pl": "Czy wolno Ci holować pojazd, którym kieruje osoba w stanie po użyciu alkoholu?",
+      "ua": "Чи дозволяється буксирування транспортного засобу, яким керує особа в стані алкогольного сп’яніння?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "426cc05a7d.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3205,
+    "questionNumber": 11507,
+    "question": {
+      "de": "Können Schlaf- und Beruhigungsmittel die Fahrtauglichkeit beeinflussen?",
+      "eng": "Can taking soporifics or sedatives affect the capability of driving a vehicle?",
+      "pl": "Czy zażywanie leków nasennych i uspokajających może mieć negatywny wpływ na zdolność prowadzenia pojazdu?",
+      "ua": "Чи може прийом снодійних і заспокійливих ліків негативно вплинути на Вашу здатність керувати автомобілем?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "0f5815156e.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3206,
+    "questionNumber": 11508,
+    "question": {
+      "de": "Können die so angebrachten Gadgets die Sicht verhindern und die Aufmerksamkeit des Fahrers ablenken?",
+      "eng": "Can placing decorative elements in such a way limit visibility of the road and distract the driver’s attention?",
+      "pl": "Czy rozmieszczone w taki sposób ozdoby, ograniczają widoczność drogi i rozpraszają uwagę kierującego?",
+      "ua": "Чи розміщені таким чином прикраси обмежують огляд дороги та відволікають увагу водія?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "b60b898138.jpg",
+    "categories": [
+      "B",
+      "C",
+      "D",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3207,
+    "questionNumber": 11509,
+    "question": {
+      "de": "Können verschneite Autoscheiben und Außenspiegel  eines Autos, das man fahren will, einen Einfluss auf die Einschätzung der Verkehrssituation haben?",
+      "eng": "Can  snow-covered  windows and mirrors on the car you are going to drive affect your assessment of the situation on the road? \t",
+      "pl": "Czy zaśnieżone szyby lub lusterka samochodu, którym zamierzasz kierować, utrudniają ocenę sytuacji na drodze?",
+      "ua": "Чи засніжені вікна або дзеркала автомобіля, яким Ви збираєтеся їхати, утруднюють оцінку ситуації на дорозі?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "397c841f1a.jpg",
+    "categories": [
+      "B",
+      "C",
+      "D",
+      "T",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3208,
+    "questionNumber": 11510,
+    "question": {
+      "de": "Soll man am Morgen auf das Autofahren verzichten, wenn man am  Vorabend viel Alkohol getrunken hat?",
+      "eng": "Should you refrain from driving a vehicle in the morning, if the night before you consumed a large amount of alcohol?",
+      "pl": "Czy rano powinieneś zrezygnować z kierowania pojazdem, jeśli wieczorem poprzedniego dnia spożyłeś dużą ilość alkoholu?",
+      "ua": "Чи слід відмовитися від водіння вранці, якщо ввечері попереднього дня Ви випили велику кількість алкоголю?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "3570ffc996.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 2,
+    "legalBasis": null,
+    "additionalDescription": ""
+  }
+]

@@ -1,0 +1,5375 @@
+[
+  {
+    "id": 305,
+    "questionNumber": 2332,
+    "question": {
+      "de": "Sind Sie in der dargestellten Situation dazu verpflichtet, besonders vorsichtig zu sein?",
+      "eng": "Are you obliged to exercise particular caution in the presented situation?",
+      "pl": "Czy w tej sytuacji jesteś obowiązany do zachowania szczególnej ostrożności?",
+      "ua": "Чи повинні Ви бути особливо обережним в цій ситуації?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "e4eff21f82.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 1"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 6 ust. 1 \n§ 3 ust. 4 \n§ 21 ust. 4 \n§ 78 ust. 1 pkt 3"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 28 ust. 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.), w związku § 6 ust. 1, § 3 ust. 4, § 21 ust. 4, § 78 ust. 1 pkt 3 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.)\"."
+  },
+  {
+    "id": 306,
+    "questionNumber": 2333,
+    "question": {
+      "de": "Sind Sie in der dargestellten Situation der Pflicht entbunden, besonders vorsichtig zu sein?",
+      "eng": "Are you exempt from the duty to exercise particular caution in the presented situation?",
+      "pl": "Czy w tej sytuacji jesteś zwolniony z obowiązku zachowania szczególnej ostrożności?",
+      "ua": "Чи звільнені Ви від обов’язку проявляти особливу обережність у цій ситуації?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "e4eff21f82.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 1"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 6 ust. 1 \n§ 3 ust. 4 \n§ 21 ust. 4 \n§ 78 ust. 1 pkt 3"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 28 ust. 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.), w związku § 6 ust. 1, § 3 ust. 4, § 21 ust. 4, § 78 ust. 1 pkt 3 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.)"
+  },
+  {
+    "id": 329,
+    "questionNumber": 2429,
+    "question": {
+      "de": "Haben Sie in der dargestellten Situation die Pflicht, sich zu vergewissern, dass von keiner Seite ein Zug kommt?",
+      "eng": "Are you obliged in this situation to make sure that there is no train coming from either side?",
+      "pl": "Czy w tej sytuacji masz obowiązek upewnić się, że z żadnej strony nie nadjeżdża pociąg?",
+      "ua": "Чи Ви зобов’язані у такій ситуації переконатися, що з жодного боку не наближається поїзд?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "8147dbc3d4.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 28 ust. 1 ustawy z dnia czerwca 1997 r. Prawo o ruchu drogowym (Dz.U. z 2012 r. poz. 1137)."
+  },
+  {
+    "id": 332,
+    "questionNumber": 2434,
+    "question": {
+      "de": "Haben Sie die Pflicht, wenn Sie sich diesem Bahnübergang nähern, sich zu vergewissern, dass in der Zeit der Überquerung kein Zug kommt?",
+      "eng": "When approaching this level crossing, do you have to make sure that there will be no train coming when you are driving through it?",
+      "pl": "Czy zbliżając się do widocznego przejazdu, masz obowiązek upewnić się, że w czasie, gdy będziesz przez niego przejeżdżał, nie nadjedzie pociąg?",
+      "ua": "Чи зобов’язані Ви, наближаючись до переїзду, який бачите перед собою, переконатися, що під час його переїзду, з жодного напрямку не над'їде потяг?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "8147dbc3d4.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 1"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 28 ust. 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.)."
+  },
+  {
+    "id": 333,
+    "questionNumber": 2436,
+    "question": {
+      "de": "Sollen Sie sich bei geöffneten Bahnübergangsschranken vergewissern, dass kein Zug kommt?",
+      "eng": "When the barriers are lifted, are you obliged to make sure that there is no train approaching?",
+      "pl": "Czy w sytuacji, kiedy zapory kolejowe są podniesione masz obowiązek upewnienia się, czy nie zbliża się pociąg?",
+      "ua": "Коли залізничні шлагбауми підняті, чи є у Вас обов'язок переконатися, що потяг не наближається?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "8147dbc3d4.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 1"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 6 ust.1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 28 ust. 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2005r. Nr 108 poz.908 z pózn. zm. ) w zw. Z § 6 ust.1 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 139 3 § , późn. zm.)"
+  },
+  {
+    "id": 335,
+    "questionNumber": 2440,
+    "question": {
+      "de": "Sind Sie in der dargestellten Situation dazu verpflichtet, das Fahrzeug vor dem Bahnübergang anzuhalten?",
+      "eng": "Are you allowed in this situation to stop your vehicle before the level crossing?",
+      "pl": "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed przejazdem kolejowym?",
+      "ua": "Чи зобов'язані Ви в цій ситуації зупинити транспортний засіб перед залізничним переїздом?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "d024354212.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 1"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 21 ust. 4\n§ 78 ust. 1 pkt 3\n§ 78 ust. 5 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 28 ust. 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.), w związku § 21 ust. 4, § 78 ust. 1 pkt 3, § 78 ust. 5 pkt 1 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.)"
+  },
+  {
+    "id": 336,
+    "questionNumber": 2442,
+    "question": {
+      "de": "Darf man nach dem Anfahren des vorfahrenden Fahrzeugs über den sichtbaren Bahnübergang durchzufahren, ohne noch einmal angehalten zu haben?",
+      "eng": "Can you drive through the level crossing without stopping after the vehicle in front of you has started off?",
+      "pl": "Czy po ruszeniu pojazdu znajdującego się przed Tobą wolno Ci przejechać przez widoczny przejazd bez ponownego zatrzymania się?",
+      "ua": "Після того, як транспортний засіб, що стоїть попереду, рушив, чи можете Ви проїхати через переїзд, який бачите, без повторної затримки?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "d024354212.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 1"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 21 ust. 4\n§ 78 ust. 1 pkt 3\n§ 78 ust. 5 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 28 ust. 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.), w związku § 21 ust. 4, § 78 ust. 1 pkt 3, § 78 ust. 5 pkt 1 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.)"
+  },
+  {
+    "id": 337,
+    "questionNumber": 2443,
+    "question": {
+      "de": "Darf man auf den Bahnübergang einfahren, wenn die Halbschranken ganz hochgehoben sind und das Rotlichtsignal noch nicht ausgeschaltet wurde?",
+      "eng": "Are you allowed to drive into a level crossing if the half-barriers have been fully lifted and the red signal has not yet been switched off?",
+      "pl": "Czy wolno Ci wjechać na przejazd kolejowy, jeżeli półzapory zostały całkowicie podniesione, a sygnał czerwony jeszcze nie został wyłączony?",
+      "ua": "Чи дозволяється в'їзд на залізничний переїзд, якщо напівшлагбауми повністю підняті, а червоний сигнал ще не вимкнено?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "4466422d0d.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 5\nart 28 ust. 1"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 98 ust. 5\n§ 21 ust. 4\n§ 78 ust. 5 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 5 i art 28 ust. 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.), w związku § 98 ust. 5, § 21 ust. 4, § 78 ust. 5 pkt 1 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.)"
+  },
+  {
+    "id": 339,
+    "questionNumber": 2448,
+    "question": {
+      "de": "Darf man in dieser Situation bei der Absicht, links nach dem Bahnübergang abzubiegen, die Fahrt fortsetzen?",
+      "eng": "When intending to drive left beyond the level crossing in this situation, can you continue driving?",
+      "pl": "Czy w tej sytuacji, mając zamiar jechać w lewo za przejazdem kolejowym, możesz kontynuować jazdę?",
+      "ua": "Чи в цій ситуації, якщо Ви збираєтеся повернути вліво після залізничного переїзду, чи можете Ви продовжити рух?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "ba97608630.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 1"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 6 ust. 1\n§ 13 ust. 1\n§ 78 ust. 1 pkt 3"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 28 ust. 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.), w związku § 6 ust. 1, § 13 ust. 1, § 78 ust. 1 pkt 3 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.)"
+  },
+  {
+    "id": 342,
+    "questionNumber": 2458,
+    "question": {
+      "de": "Dürfen Sie in der dargestellten Situation auf diesen Bahnübergang einfahren, wenn das Rotlicht bereits ausgegangen ist, aber die Halbschranken noch nicht ganz geöffnet worden sind?",
+      "eng": "Are you allowed in this situation to enter the level crossing, if the red light has already gone out, but halfbarriers are yet the be fully raised?",
+      "pl": "Czy w przedstawionej sytuacji wolno Ci wjechać na widoczny przejazd kolejowy, jeżeli czerwone światło już zgasło, ale półzapory nie zostały jeszcze całkowicie podniesione?",
+      "ua": "Чи можна в даній ситуації в'їхати на залізничний переїзд, якщо червоне світло вже згасло, але напівшлагбауми ще не повністю підняті?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "025b02a7e1.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 1"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 21 ust. 4\n§ 98 ust. 5"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 28 ust. 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.), w związku § 21 ust. 4, § 98 ust. 5 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.)"
+  },
+  {
+    "id": 344,
+    "questionNumber": 2465,
+    "question": {
+      "de": "Darf man du auf diesen Bahnübergang direkt nach der Durchfahrt des Zuges, unabhängig von dem ausgestrahlten Lichtsignal, fahren?",
+      "eng": "Are you allowed to enter this level crossing directly after the passage of a train, regardless of the signal displayed?",
+      "pl": "Czy wolno Ci wjechać na widoczny przejazd bezpośrednio po przejechaniu pociągu, niezależnie od wyświetlanego sygnału?",
+      "ua": "Чи дозволяється в'їхати на переїзд відразу після проїзду поїзда, незалежно від сигналізації на переїзді?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "3e72efdda7.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 5\nart. 28 ust. 2"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 98 ust. 5\n§ 21 ust. 4\n§ 78 ust. 1 pkt 3 i ust. 5 pkt 2"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 5 i 28 ust. 2 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.), w związku § 98 ust. 5, § 21 ust. 4, § 78 ust. 1 pkt 3 i § 78 ust. 5 pkt 2 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.)"
+  },
+  {
+    "id": 345,
+    "questionNumber": 2467,
+    "question": {
+      "de": "Dürfen Sie auf diesen Bahnübergang gleich nach dem Öffnen der Bahnschranken einfahren, ohne sich davor vergewissert zu haben, dass kein Zug kommt?",
+      "eng": "Are you allowed to drive onto this level crossing right after the barriers have been lifted without making sure that there is no train approaching?",
+      "pl": "Czy wolno Ci wjechać na widoczny przejazd bezpośrednio po podniesieniu zapór kolejowych bez upewnienia się, czy nie nadjeżdża pociąg?",
+      "ua": "Чи Ви можете в'їхати на переїзд відразу після підняття залізничних шлагбаумів, не переконавшись у відсутності поїзда, що наближається?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "72eafb1bc6.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 2"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 6 ust.1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 28 ust. 2 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2005r. Nr 108 poz.908 z pózn. zm. ) w zw. Z § 6 ust.1 Rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 139 3 § , późn. zm.)"
+  },
+  {
+    "id": 347,
+    "questionNumber": 2472,
+    "question": {
+      "de": "Dürfen Sie auf den Bahnübergang einfahren, wenn die Schranken nicht ganz geöffnet sind?",
+      "eng": "Are you allowed to drive onto the level crossing when the barriers are not fully lifted?",
+      "pl": "Czy przy niepełnym podniesieniu zapór wolno Ci wjechać na przejazd kolejowy?",
+      "ua": "Чи дозволяється в’їжджати на залізничний переїзд, коли шлагбауми не повністю підняті?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "72eafb1bc6.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 1 i ust. 3 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 28 ust. 1 i ust. 3 pkt 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.)."
+  },
+  {
+    "id": 348,
+    "questionNumber": 2475,
+    "question": {
+      "de": "In der dargestellten Situation startet der Motor nicht mehr und Sie haben keine Möglichkeit mehr, das Fahrzeug aus den Gleisen zu entfernen. Sind Sie dazu verpflichtet, den Fahrer des Schienenfahrzeugs davor zu warnen?",
+      "eng": "In the presented situation the engine will not start and you have no possibility of removing the vehicle from the track-way. Are you obliged to warn the driver of the rail vehicle of danger?",
+      "pl": "W tej sytuacji silnik nie daje się uruchomić i nie masz możliwości usunięcia pojazdu z torowiska. Czy jesteś zobowiązany ostrzec kierującego pojazdem szynowym o niebezpieczeństwie?",
+      "ua": "У цій ситуації двигун не можна запустити і Ви не можете усунути транспортний засіб з колії. Чи зобов'язані Ви попередити водія рейкового транспортного засобу про небезпеку?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "6be4bffdc1.mp4",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 4"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 21 ust. 4\n§ 78 ust. 5 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 28 ust. 4 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.), w związku § 21 ust. 4, § 78 ust. 5 pkt 1 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.)"
+  },
+  {
+    "id": 350,
+    "questionNumber": 2478,
+    "question": {
+      "de": "In der dargestellten Situation startet der Motor nicht mehr. Haben Sie die Pflicht, den Versuch zu unternehmen, das Fahrzeug aus den Gleisen zu entfernen?",
+      "eng": "In the presented situation the engine will not start. Are you obliged to try to remove the vehicle from the track-way?",
+      "pl": "W tej sytuacji silnik nie daje się uruchomić. Czy masz obowiązek podjąć próbę usunięcia pojazdu z torowiska?",
+      "ua": "У цій ситуації запуск двигуна неможливий. Чи зобов'язані Ви спробувати прибрати транспортний засіб з колії?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "6be4bffdc1.mp4",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 4"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 21 ust. 4\n§ 78 ust. 5 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 28 ust. 4 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.), w związku § 21 ust. 4, § 78 ust. 5 pkt 1 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.)\"."
+  },
+  {
+    "id": 351,
+    "questionNumber": 2480,
+    "question": {
+      "de": "Sie nähern sich dem Straßenbahnübergang. Sollen Sie auf das Anhalten des Fahrzeugs vorbereitet sein?",
+      "eng": "Do you have to be prepared to stop your vehicle when approaching the tram crossing?",
+      "pl": "Czy zbliżając się do przejazdu tramwajowego, masz obowiązek być przygotowany do zatrzymania pojazdu?",
+      "ua": "Наближаючись до трамвайного переїзду, чи зобов’язані Ви бути готовими зупинити свій транспортний засіб?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "26622a338b.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 2"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 10 ust. 3"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 28 ust. 6 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2005r. Nr 108 poz.908 z pózn. zm. ) w zw. Z § 10 ust. 3 Rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 139 3 § , późn. zm.)"
+  },
+  {
+    "id": 352,
+    "questionNumber": 2482,
+    "question": {
+      "de": "Sollen Sie sich in der dargestellten Situation vergewissern, ob keine Straßenbahn kommt?",
+      "eng": "Are you obliged in this situation to make sure that there is no tram approaching?",
+      "pl": "Czy w tej sytuacji masz obowiązek upewnić się, czy nie nadjeżdża tramwaj?",
+      "ua": "Чи у цій ситуації Ви зобов'язані переконатися, що не наближається трамвай?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "26622a338b.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 1"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 10 ust. 3"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 28 ust. 1 i 6 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.), w związku § 10 ust. 3 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.)"
+  },
+  {
+    "id": 353,
+    "questionNumber": 2486,
+    "question": {
+      "de": "Sind Sie in der dargestellten Situation dazu verpflichtet, sich zu vergewissern, dass keine Straßenbahn kommt?",
+      "eng": "Are you obliged in this situation to make sure that there is no tram approaching?",
+      "pl": "Czy w tej sytuacji jesteś obowiązany do upewnienia się, czy nie nadjeżdża tramwaj?",
+      "ua": "Чи у цій ситуації Ви зобов'язані переконатися, що не наближається трамвай?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "5397bf721d.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 5\nart. 28 ust. 1"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 10 ust. 3\n§ 95 ust. 1 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 5 i art. 28 ust. 6 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.), w związku § 10 ust. 3, § 95 ust. 1 pkt 1 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.)"
+  },
+  {
+    "id": 354,
+    "questionNumber": 2490,
+    "question": {
+      "de": "Darf man in dieser Situation an dem stehenden Fahrzeug vorbeifahren?",
+      "eng": "Can you pass the stationary vehicle in this situation?",
+      "pl": "Czy w tej sytuacji możesz ominąć stojący pojazd?",
+      "ua": "Чи можна в цій ситуації обминути транспортний засіб, що стоїть?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "0327a46129.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 5\nart. 28 ust. 3 pkt 4"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 21 ust. 4\n§ 98 ust. 5"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 5 i 28 ust. 3 pkt 4 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.), w związku § 21 ust. 4, § 98 ust. 5 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.)"
+  },
+  {
+    "id": 355,
+    "questionNumber": 2491,
+    "question": {
+      "de": "Soll man  in dieser Situation hinter dem stehenden Fahrzeug anhalten?",
+      "eng": "Should you stop behind the stationary vehicle in this situation?",
+      "pl": "Czy w tej sytuacji powinieneś zatrzymać się za stojącym pojazdem?",
+      "ua": "Чи в цій ситуації Ви повинні зупинитися позаду транспортного засобу, що стоїть?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "0327a46129.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 5\nart. 28 ust. 3 pkt 4"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 21 ust. 4\n§ 98 ust. 5"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 5 i art. 28 ust. 3 pkt 4 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.), w związku § 21 ust. 4, § 98 ust. 5 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.)"
+  },
+  {
+    "id": 478,
+    "questionNumber": 2936,
+    "question": {
+      "de": "Darf man in der dargestellten Situation die Fahrt fortsetzen, unabhängig von den Fußgängern auf der Fahrbahn?",
+      "eng": "Are you allowed in this situation to resume driving, regardless of the movement of pedestrians on the roadway?",
+      "pl": "Czy w tej sytuacji masz prawo kontynuować jazdę?",
+      "ua": "Чи маєте Ви право продовжувати рух у такій ситуації?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "3568bf8fb4.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 26 ust. 6"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 26 ust. 6 ustawy Prawo o ruchu drogowym (Dz.U z 2012 r. poz. 1137 j.t. z późn. zm.)"
+  },
+  {
+    "id": 575,
+    "questionNumber": 3419,
+    "question": {
+      "de": "Sollen Sie in dieser Situation, wenn Sie nach dem Bahnübergang links abbiegen möchten, vor der Halbschranke anhalten?",
+      "eng": "If you want to continue driving left beyond the level crossing, should you stop before the half-barrier?",
+      "pl": "Czy w tej sytuacji, chcąc kontynuować jazdę w lewo za przejazdem, powinieneś zatrzymać się przed półzaporą?",
+      "ua": "Чи у цій ситуації, якщо Ви хочете продовжити рух вліво після переїзду, Вам потрібно зупинитися перед напівшлагбаумом?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "ba97608630.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 1"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 6 ust. 1\n§ 13 ust. 1\n§ 78 ust. 1 pkt 3"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 28 ust. 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.), w związku § 6 ust. 1, § 13 ust. 1, § 78 ust. 1 pkt 3 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.)"
+  },
+  {
+    "id": 616,
+    "questionNumber": 3531,
+    "question": {
+      "de": "Hast du in der dargestellten Situation die Pflicht, das Fahrzeug anzuhalten?",
+      "eng": "Are you obliged to stop the vehicle in this situation?",
+      "pl": "Czy w tej sytuacji masz obowiązek zatrzymać pojazd?",
+      "ua": "Чи зобов'язані Ви зупинити транспортний засіб у цій ситуації?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "57e1f4f4e4.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 3 ust. 1\nart. 26 ust. 6"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 3 ust. 1 i art. 26 ust. 6 ustawy PRD"
+  },
+  {
+    "id": 622,
+    "questionNumber": 3542,
+    "question": {
+      "de": "Muss man in der dargestelleten Situation seine Aufmerksamkeit verdoppeln und darauf gefasst sein, dass auf der linken Fahrbahnseite ein Fußgänger plötzlich erscheint?",
+      "eng": "Should you in this situation, increase attention and be prepared for the possibility of a pedestrian emerging from the left side of the roadway?",
+      "pl": "Czy w tej sytuacji należy zwiększyć uwagę i być przygotowanym na możliwość pojawienia się pieszego z lewej strony jezdni?",
+      "ua": "Чи потрібно в даній ситуації посилити увагу і бути готовим до можливості появи пішохода з лівого боку дороги?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "e265704b79.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": "Zał.1 §1.pkt.2.lit.f do Rozporzadzenia Ministra Transportu ,Budownictwa i Gospodarki Morskiej z dnia 13 lipca 2012 roku w sprawie szkolenia osób ubiegających się o uprawnienie do kierowania pojazdami ,instruktorów i wykładowców Dz.U poz.1019 z 14 września 2012 roku.ązku z art.3.1 i 4 ustawy z dnia 20.06.1997r. \"Prawo o ruchu drogowym\" ."
+  },
+  {
+    "id": 667,
+    "questionNumber": 3661,
+    "question": {
+      "de": "Sollen Sie in der dargestellten Situation das Fahrzeug vor dem Bahnübergang anhalten?",
+      "eng": "Are you obliged to always stop the vehicle before the level crossing?",
+      "pl": "Czy w tej sytuacji masz obowiązek zawsze zatrzymać pojazd przed przejazdem kolejowym?",
+      "ua": "Чи у цій ситуації Ви зобов’язані завжди зупиняти транспортний засіб перед залізничним переїздом?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "919cde9434.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 78 ust. 5 pkt 1\n§ 89 ust. 3"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 28 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz.U. z 2012 r. poz. 1137), w zw. z par. 78 ust. 5 pkt 1 oraz par. 89 ust. 3 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych. (Dz. U. Nr 170 poz. 1393 z późn. zm.)."
+  },
+  {
+    "id": 668,
+    "questionNumber": 3662,
+    "question": {
+      "de": "Sollen Sie an der markierten Stelle anhalten?",
+      "eng": "Are you obliged to stop in the designated place even when you have made sure that there is no rail vehicle approaching?",
+      "pl": "Czy masz obowiązek zatrzymać się w wyznaczonym miejscu?",
+      "ua": "Чи зобов'язані Ви зупинитися у визначеному місці?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "addd0cf5b5.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 1-3"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 78 ust. 5 pkt 1\n§ 89 ust. 3"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 28 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz.U. z 2012 r. poz. 1137), w zw. z par. 78 ust. 5 pkt 1 oraz par. 89 ust. 3 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych. (Dz. U. Nr 170 poz. 1393 z późn. zm.)."
+  },
+  {
+    "id": 669,
+    "questionNumber": 3664,
+    "question": {
+      "de": "Sollen Sie, bevor Sie  hinter dem vorausfahrenden Fahrzeug auf die Gleisanlage kommen, sich vergesissern, dass kein Schienenfahrzeug kommt?",
+      "eng": "Before driving into the track-way directly before the vehicle in front, are you obliged to make sure that there is no rail vehicle approaching?",
+      "pl": "Czy zanim wjedziesz na torowisko bezpośrednio za poprzedzającym pojazdem, masz obowiązek upewnienia się, czy nie zbliża się pojazd szynowy?",
+      "ua": "Чи зобов'язані Ви переконатися, що рейковий транспортний засіб не наближається, перед тим як в'їхати на колію, безпосередньо за транспортним засобом, що рухається попереду?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "794c475afb.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 1"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 21 ust. 1 i ust. 4\n§ 78 ust. 5 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 28 ust. 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.), w związku § 21 ust. 1 i 4, § 78 ust. 5 pkt 1 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.)"
+  },
+  {
+    "id": 670,
+    "questionNumber": 3667,
+    "question": {
+      "de": "Sollen Sie, wenn Sie sich dem Straßenbahnübergang nähern, vergewissern, dass kein Schienenfahrzeug kommt?",
+      "eng": "When approaching the tram track, are you obliged to make sure that there is no rail vehicle approaching?",
+      "pl": "Czy zbliżając się do przejazdu tramwajowego, masz obowiązek upewnić się, czy nie nadjeżdża pojazd szynowy?",
+      "ua": "Чи зобов'язані Ви, наближаючись до трамвайного переїзду, переконатися, що не наближається рейковий транспорт?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "71a7530aee.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 6"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 10 ust. 3"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 28 ust. 6 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.), w związku § 10 ust. 3 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.)"
+  },
+  {
+    "id": 896,
+    "questionNumber": 4260,
+    "question": {
+      "de": "Du fährst ein Fahrzeug in geschlossener Ortschaft. Bist du in der dargestellten Situation verpflichtet, dem Busfahrer das Einfädeln in den Verkehr zu ermöglichen?",
+      "eng": "You are driving a vehicle in the built-up area. In the presented situation, are you obliged to allow the bus driver to join the traffic?",
+      "pl": "Kierujesz pojazdem w obszarze zabudowanym. Czy w przedstawionej sytuacji masz obowiązek umożliwić kierującemu autobusem włączenie się do ruchu?",
+      "ua": "Ви їдете в населеному пункті. Чи у наведеній ситуації Ви зобов’язані дати можливість водію автобуса включитися в рух (розпочати рух)?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "dd13311c63.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 18 ust. 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 18 ust. 1 Ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym"
+  },
+  {
+    "id": 898,
+    "questionNumber": 4344,
+    "question": {
+      "de": "Sollen Sie sich in der dargestellten Situation vergewissern, dass kein Schienenfahrzeug kommt?",
+      "eng": "In the presented situation, before driving onto the rails, are you obliged to make sure that no rail vehicle is approaching?",
+      "pl": "Czy w tej sytuacji, przed wjechaniem na tory, masz obowiązek upewnić się czy nie zbliża się pojazd szynowy?",
+      "ua": "Чи зобов'язані Ви в цій ситуації, перш ніж виїхати на колію, переконатися, що не наближається рейковий транспортний засіб?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "e4eff21f82.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 1"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 6 ust. 1\n§ 3 ust. 4\n§ 21 ust. 4\n§ 78 ust. 1 pkt 3"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 28 ust. 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.), w związku § 6 ust. 1, § 3 ust. 4, § 21 ust. 4, § 78 ust. 1 pkt 3 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.)t"
+  },
+  {
+    "id": 1096,
+    "questionNumber": 6148,
+    "question": {
+      "de": "Dürfen Sie in dieser Situation anfahren?",
+      "eng": "In this situation, can you start driving?",
+      "pl": "Czy w tej sytuacji masz prawo rozpocząć jazdę?",
+      "ua": "Чи дозволено Вам розпочати рух в цій ситуації?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "572b39f6a1.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 26 ust. 6"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 26 ust. 6 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1097,
+    "questionNumber": 6149,
+    "question": {
+      "de": "Sind Sie in dieser Situation verpflichtet zu warten, bis die Straßenbahn abfährt, bevor Sie die Fahrt fortsetzen?",
+      "eng": "In this situation, if you want to continue driving, are you obliged to first wait for the tram to start moving?",
+      "pl": "Czy chcąc w tej sytuacji kontynuować jazdę, masz obowiązek czekać, aż tramwaj ruszy?",
+      "ua": "Якщо Ви хочете продовжити рух, чи зобов’язані Ви чекати у цій ситуації, поки трамвай почне рух?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "a7c8089325.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 26 ust. 6"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 26 ust. 6 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1098,
+    "questionNumber": 6151,
+    "question": {
+      "de": "Dürfen Sie in dieser Situation die Straßenbahn umfahren?",
+      "eng": "In this situation, can you bypass the tram?",
+      "pl": "Czy w tej sytuacji możesz ominąć tramwaj?",
+      "ua": "Чи можна в цій ситуації об'їхати трамвай?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "788e419de3.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 26 ust. 6"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 26 ust. 6 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1102,
+    "questionNumber": 6160,
+    "question": {
+      "de": "Dürfen Sie in dieser Situation das Fahrzeug auf dem Bürgersteig direkt vor der Haltestelle anhalten?",
+      "eng": "In this situation, can you stop a car on the sidewalk just in front of a public transport stop?",
+      "pl": "Czy w tej sytuacji możesz zatrzymać pojazd na chodniku tuż przed przystankiem?",
+      "ua": "Чи маєте Ви право, у цій ситуації, зупинити свій транспортний засіб на тротуарі безпосередньо перед автобусною зупинкою?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "fd8c4e8682.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 90 ust. 1"
+        ]
+      }
+    ],
+    "additionalDescription": "§ 90 ust. 1 Rozporządzenia w sprawie znaków i sygnałów drogowych (Dz. U. z 2002 r. Nr 170 poz. 1393 z późn. zm.)"
+  },
+  {
+    "id": 1189,
+    "questionNumber": 6278,
+    "question": {
+      "de": "Dürfen Sie in dieser Situation auf den Bahnübergang mit besonderer Vorsicht einfahren?",
+      "eng": "In this situation, can you enter the crossing if you exercise special caution?",
+      "pl": "Czy w tej sytuacji możesz wjechać na przejazd z zachowaniem szczególnej ostrożności?",
+      "ua": "Чи у цій ситуації Ви можете в'їхати на залізничний переїзд з дотриманням особливої обережності?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "0371db96d4.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 5 ust. 1 \nart. 28 ust. 3 pkt 1"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 98 ust. 5"
+        ]
+      }
+    ],
+    "additionalDescription": "§ 98 ust. 5 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.) oraz art. 5 i art. 28 ust. 3 pkt 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.)"
+  },
+  {
+    "id": 1190,
+    "questionNumber": 6279,
+    "question": {
+      "de": "Dürfen Sie in dieser Situation den Bahnübergang überqueren, ohne anzuhalten?",
+      "eng": "In this situation, can you drive through the railway crossing without stopping?",
+      "pl": "Czy w tej sytuacji możesz przejechać przez przejazd kolejowy bez zatrzymania?",
+      "ua": "Чи у цій ситуації Ви можете проїхати залізничний переїзд без зупинки?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "c3c9f3f08a.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 1 i ust. 2"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 28 ust. 1 i 2 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1191,
+    "questionNumber": 6280,
+    "question": {
+      "de": "Dürfen Sie in dieser Situation auf den Bahnübergang einfahren?",
+      "eng": "In this situation, can you enter the railway crossing?",
+      "pl": "Czy w tej sytuacji możesz wjechać na przejazd kolejowy?",
+      "ua": "Чи можна в цій ситуації в'їхати на залізничний переїзд?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "dc68d17b72.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 3 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 28 ust. 3 pkt 1 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1192,
+    "questionNumber": 6281,
+    "question": {
+      "de": "Ist das Parken des Fahrzeugs unmittelbar hinter der erkennbaren Bake verboten?",
+      "eng": "Is it forbidden to park the car immediately after the countdown post you see here?",
+      "pl": "Czy postój pojazdu bezpośrednio za widocznym słupkiem wskaźnikowym jest zabroniony?",
+      "ua": "Чи заборонено паркувати автомобіль відразу після проїзду знака, який Ви бачите, який попереджає про наближення до залізничного переїзду?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "deefe17ad7.jpg",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 49 ust. 2 pkt 3"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 49 ust. 2 pkt 3 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1193,
+    "questionNumber": 6282,
+    "question": {
+      "de": "Dürfen Sie in dieser Situation das Fahrzeug rechts auf dem Gehweg, unmittelbar vor dem Bahnübergang parken?",
+      "eng": "In this situation, can you park the car on the right side, on the sidewalk immediately in front of the railway crossing?",
+      "pl": "Czy w tej sytuacji masz prawo zaparkować pojazd po prawej stronie na chodniku bezpośrednio przed przejazdem kolejowym?",
+      "ua": "Чи маєте Ви право, у цій ситуації, запаркувати свій транспортний засіб праворуч на тротуарі безпосередньо перед залізничним переїздом?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "381d2a9fdb.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 49 ust. 2 pkt 3"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 49 ust. 2 pkt 3 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1194,
+    "questionNumber": 6283,
+    "question": {
+      "de": "Dürfen Sie in dieser Situation die Schranke umfahren und auf den Bahnübergang einfahren, sobald Sie sich vergewissert haben, dass kein Zug kommt?",
+      "eng": "In this situation, can you bypass the barrier and enter the railway crossing after making sure that the train is not coming?",
+      "pl": "Czy w tej sytuacji masz prawo ominąć zaporę i wjechać na przejazd kolejowy po upewnieniu się, że nie nadjeżdża pociąg?",
+      "ua": "Чи дозволяється Вам, у цій ситуації, об'їхати шлагбаум і в'їхати на залізничний переїзд, переконавшись, що поїзд не наближається?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "181a934c85.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 3 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 28 ust. 3 pkt 1 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.)"
+  },
+  {
+    "id": 1195,
+    "questionNumber": 6286,
+    "question": {
+      "de": "Dürfen Sie in dieser Situation auf den Bahnübergang einfahren?",
+      "eng": "In this situation, can you enter the railway crossing?",
+      "pl": "Czy w tej sytuacji wolno Ci wjechać na przejazd kolejowy?",
+      "ua": "Чи дозволяється Вам, у цій ситуації, в'їхати на залізничний переїзд?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "497dc1ca86.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 3 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 28 ust. 3 pkt 1 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1197,
+    "questionNumber": 6290,
+    "question": {
+      "de": "Sind Sie in dieser Situation verpflichtet, vor dem Bahnübergang anzuhalten?",
+      "eng": "In this situation, are you obliged to stop in front of the railway crossing?",
+      "pl": "Czy w tej sytuacji masz obowiązek zatrzymać się przed przejazdem kolejowym?",
+      "ua": "Чи зобов'язані Ви, у цій ситуації, зупинитися перед залізничним переїздом?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "b13a031aeb.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 3 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 28 ust. 3 pkt 1 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1874,
+    "questionNumber": 7160,
+    "question": {
+      "de": "Dürfen Sie in dieser Situation den Radfahrer überholen?",
+      "eng": "In this situation, can you overtake the cyclist?",
+      "pl": "Czy w tej sytuacji możesz wyprzedzić rowerzystę?",
+      "ua": "Чи можна у цій ситуації обігнати велосипедиста?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "78a46b658d.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art 28 ust. 3 pkt 3"
+        ]
+      }
+    ],
+    "additionalDescription": "Art 28 ust. 3 pkt 3 Ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137)"
+  },
+  {
+    "id": 1918,
+    "questionNumber": 7232,
+    "question": {
+      "de": "Sind Sie in dieser Situation verpflichtet, vorsichtig zu sein?",
+      "eng": "In this situation, are you obliged to exercise caution?",
+      "pl": "Czy w tej sytuacji masz obowiązek zachować ostrożność?",
+      "ua": "Чи зобов’язані Ви бути обережним в цій ситуації?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "37386e8cea.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": "Art. 3 ust. 1 ustawy Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137) - żaden z przepisów ustawy ani akty wykonawcze nie zobowiązują do zachowania szczególnej ostrożności w takiej sytuacji."
+  },
+  {
+    "id": 2021,
+    "questionNumber": 7372,
+    "question": {
+      "de": "Sind Sie  in dieser Situation dazu verpflichtet, das Fahrzeug so lange anzuhalten, bis die Fußgänger den Bürgersteig erreicht haben?",
+      "eng": "In this situation, are you required to stop the vehicle for the time needed by the pedestrian to freely reach the pavement?",
+      "pl": "Czy w tej sytuacji masz obowiązek zatrzymać pojazd na taki czas, aby zapewnić pieszym swobodne dojście do chodnika?",
+      "ua": "Чи зобов'язані Ви, в такій ситуації, зупинити свій транспортний засіб на час, необхідний для того, щоб пішоходи могли спокійно дійти до тротуару і вийти на нього?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "cda7238de5.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 26 ust. 6"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 26 ust. 6 ustawy Prawo o ruchu drogowym (Dz.U z 2012 r. poz. 1137 j.t. z późn. zm.)"
+  },
+  {
+    "id": 2022,
+    "questionNumber": 7373,
+    "question": {
+      "de": "Dürfen Sie in der dargestellten Situation gleich losfahren, nachdem die Fußgänger den Bürgersteig erreicht haben?",
+      "eng": "Are you allowed to start driving once the pedestrians have walked onto the pavement?",
+      "pl": "Czy masz prawo ruszyć, gdy piesi wejdą na chodnik?",
+      "ua": "Чи маєте Ви право рушати з місця, якщо пішоходи вже вийшли з переходу на тротуар?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "60457f1bf1.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 26 ust. 6"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 26 ust. 6 ustawy Prawo o ruchu drogowym (Dz.U z 2012 r. poz. 1137 j.t. z późn. zm.)"
+  },
+  {
+    "id": 2068,
+    "questionNumber": 7431,
+    "question": {
+      "de": "Sind Sie verpflichtet, vor dem Einfahren in diesen Bahnübergang anzuhalten, sogar dann, wenn Sie sicher sind, dass kein Zug kommt?",
+      "eng": "Are you obliged to stop in front of this level crossing even when you are sure that no train is approaching?",
+      "pl": "Czy masz obowiązek zatrzymać się przed widocznym przejazdem kolejowym nawet wówczas, gdy jesteś pewien, że nie nadjeżdża pociąg?",
+      "ua": "Чи зобов'язані Ви зупинитися перед цим залізничним переїздом, навіть якщо Ви впевнені, що поїзд не наближається?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "90059bdd8f.mp4",
+    "categories": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "T",
+      "AM",
+      "A1",
+      "A2",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 21 ust. 4\n§ 78 ust. 5 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "§ 21 ust. 4 i § 78 ust. 5 pkt 1 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.)"
+  },
+  {
+    "id": 2340,
+    "questionNumber": 8304,
+    "question": {
+      "de": "Darf man in dieser Situation auf den Bahnübergang ohne Anhalten einfahren, nachdem man sich vergewissert hat, dass kein Schienenfahrzeug kommt?",
+      "eng": "In the presented situation, do you have the right to enter the level crossing without stopping after making sure that no rail vehicle is coming?",
+      "pl": "Czy w przedstawionej sytuacji masz prawo wjechać na przejazd kolejowy bez zatrzymania po upewnieniu się, że nie nadjeżdża pojazd szynowy?",
+      "ua": "Чи, у наведеній ситуації, Ви маєте право в'їхати на залізничний переїзд без зупинки, переконавшись, що поїзд не наближається?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "c4b1b05f3c.mp4",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "Art. 28 ust. 1 i 2"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 28 ust. 1 i 2 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.) w zw. z § 21. ust 1 i 2 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.)"
+  },
+  {
+    "id": 2341,
+    "questionNumber": 8305,
+    "question": {
+      "de": "Darf man in dieser Situation auf den Bahnübergang einfahren?",
+      "eng": "In the presented situation, do you have the right to enter the level crossing?",
+      "pl": "Czy w przedstawionej sytuacji masz prawo wjechać na przejazd kolejowy?",
+      "ua": "Чи маєте Ви право в'їхати на залізничний переїзд у наведеній ситуації?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "257d1bebeb.mp4",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "Art. 5 ust. 1"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 98 ust. 5"
+        ]
+      }
+    ],
+    "additionalDescription": "§ 98. ust 5 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.)"
+  },
+  {
+    "id": 2342,
+    "questionNumber": 8306,
+    "question": {
+      "de": "Kommen Sie in dieser Situation an einen unbeschrankten Bahnübergang?",
+      "eng": "In the presented situation, are you approaching a level crossing without a barrier?",
+      "pl": "Czy w przedstawionej sytuacji zbliżasz się do przejazdu kolejowego bez zapór?",
+      "ua": "Чи, у наведеній ситуації, Ви наближаєтеся до залізничного переїзду без шлагбаумів?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "c40eb53eef.mp4",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 6. ust 1"
+        ]
+      }
+    ],
+    "additionalDescription": "§ 6. ust 1 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.)"
+  },
+  {
+    "id": 2343,
+    "questionNumber": 8309,
+    "question": {
+      "de": "Darf man auf den Bahnübergang einfahren, während die Schranken vom Bahnangestellten gehoben werden?",
+      "eng": "Are you permitted to enter the level crossing while the barrier is being lifted by the railway worker?",
+      "pl": "Czy masz prawo wjechać na przejazd kolejowy, w czasie podnoszenia zapór przez pracownika kolejowego?",
+      "ua": "Чи можна в'їхати на залізничний переїзд, коли залізничник піднімає шлагбаум?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "211194d451.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "Art. 28 ust. 3 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 28 ust. 3 pkt 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.)"
+  },
+  {
+    "id": 2344,
+    "questionNumber": 8311,
+    "question": {
+      "de": "Hat man beim Passieren eines Bahnübergangs Vorrang vor dem kommenden Schienenfahrzeug?",
+      "eng": "When passing through a level crossing, do you have priority over an oncoming rail vehicle?",
+      "pl": "Czy przejeżdżając przez przejazd kolejowy masz pierwszeństwo przed nadjeżdżającym pojazdem szynowym?",
+      "ua": "Чи маєте Ви перевагу перед залізничним транспортом, який наближається, при перетині залізничного переїзду?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "adf33ad7a5.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": "Art. 25 ust. 3 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (t.j.: Dz. U. z 2012 r. poz. 1137, z późn. zm.)"
+  },
+  {
+    "id": 2345,
+    "questionNumber": 8314,
+    "question": {
+      "de": "Darf man in dieser Situation auf den Bahnübergang mit besonderer Vorsicht einfahren?",
+      "eng": "In this situation, are you permitted to enter the level crossing while exercising special caution?",
+      "pl": "Czy w tej sytuacji masz prawo wjechać na przejazd kolejowy z zachowaniem szczególnej ostrożności?",
+      "ua": "Чи маєте Ви право, в цій ситуації, в'їхати на залізничний переїзд, за умови дотримання особливої обережності?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "a5b88f42a6.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "Art. 5 ust. 1"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 98 ust. 5"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 5 ust. 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.) w zw. z § 98 ust. 5 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.)"
+  },
+  {
+    "id": 2346,
+    "questionNumber": 8315,
+    "question": {
+      "de": "Befinden Sie sich in dieser Situation vor einem eingleisigen Bahnübergang?",
+      "eng": "In the situation shown, are you in front of a single-rail level crossing?",
+      "pl": "Czy w widocznej sytuacji znajdujesz się przed przejazdem kolejowym jednotorowym?",
+      "ua": "Чи, у наведеній ситуації, Ви знаходитеся перед одноколійним залізничним переїздом?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "542a903193.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "7 ust. 1"
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 78 ust. 5 pkt 2"
+        ]
+      }
+    ],
+    "additionalDescription": "§ 78 ust. 5 pkt 2 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.) w zw. z art. 7 ust. 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 i 1448)"
+  },
+  {
+    "id": 2347,
+    "questionNumber": 8316,
+    "question": {
+      "de": "Nach dem Vorbeifahren des Schienenfahrzeugs heben sich die Halbschranken. Darf man in dieser Situation anfahren und auf die Bahnschienen einfahren?",
+      "eng": "Upon passage of the rail vehicle, half of the barrier is lifted. Are you allowed in this situation to start driving on to the rail tracks?",
+      "pl": "Po przejechaniu pojazdu szynowego półzapory unoszą się do góry. Czy w tej sytuacji masz prawo rozpocząć jazdę i wjechać na tory kolejowe?",
+      "ua": "Після проїзду залізничного транспорту напівшлагбауми піднімаються. Чи можна в цій ситуації почати рух і в'їхати на залізничну колію?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "59f90945be.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "Art. 28 ust. 3 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 28 ust. 3 pkt 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.)"
+  },
+  {
+    "id": 2348,
+    "questionNumber": 8317,
+    "question": {
+      "de": "Nähern Sie sich in dieser Situation einem beschrankten Bahnübergang?",
+      "eng": "In the presented situation, are you approaching a level crossing with barriers?",
+      "pl": "Czy w przedstawionej sytuacji zbliżasz się do przejazdu kolejowego z zaporami?",
+      "ua": "Чи, у наведеній ситуації, Ви наближаєтеся до залізничного переїзду зі шлагбаумами?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "c40eb53eef.mp4",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 6. ust 1"
+        ]
+      }
+    ],
+    "additionalDescription": "§ 6. ust 1 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.)"
+  },
+  {
+    "id": 2349,
+    "questionNumber": 8320,
+    "question": {
+      "de": "Ist es zulässig, auf einer Einbahnstraße das Schienenfahrzeug an seiner linken Seite zu überholen?",
+      "eng": "Is it permitted on a one-way road to overtake a rail vehicle from the left?",
+      "pl": "Czy na jezdni jednokierunkowej dopuszcza się wyprzedzanie pojazdu szynowego z jego lewej strony?",
+      "ua": "Чи можна на дорозі з одностороннім рухом обганяти рейковий транспортний засіб з лівого боку?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 24 ust. 4"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 24 ust. 4 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.)"
+  },
+  {
+    "id": 2350,
+    "questionNumber": 8322,
+    "question": {
+      "de": "Soll man sich vor dem Befahren der Schienen vergewissern, ob kein Schienenfahrzeug kommt?",
+      "eng": "Should you make sure that no rail vehicle is approaching before entering onto the rail tracks?",
+      "pl": "Czy przed wjechaniem na tory należy upewnić się, czy nie zbliża się pojazd szynowy?",
+      "ua": "Чи, перед в'їздом на колію, потрібно переконатися, що не наближається залізничний транспорт?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "9635215515.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 3 ust. 1 i art. 28 ust. 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 i 1448)"
+  },
+  {
+    "id": 2351,
+    "questionNumber": 8323,
+    "question": {
+      "de": "Falls das Fahrzeug auf dem Bahnübergang ausfällt, soll man den Führer des Schienenfahrzeugs warnen, soweit die Beseitigung des Fahrzeugs nicht möglich ist?",
+      "eng": "In the event of immobilisation of a vehicle on a level crossing, are you obliged to warn the rail vehicle driver if it impossible to remove the vehicle from the level crossing?",
+      "pl": "Czy w razie unieruchomienia pojazdu na przejeździe kolejowym masz obowiązek ostrzec kierującego pojazdem szynowym, jeżeli nie jest możliwie usunięcie pojazdu z tego przejazdu?",
+      "ua": "Якщо Ваш транспортний засіб заглох на залізничному переїзді і його неможливо прибрати, чи зобов'язані Ви остерегти водія поїзда?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "f913ef7802.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust. 4"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 28 ust. 4 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.)"
+  },
+  {
+    "id": 2352,
+    "questionNumber": 8326,
+    "question": {
+      "de": "Soll man in dieser Situation vor der Ampel anhalten?",
+      "eng": "Are you obliged in this situation to stop before the traffic light?",
+      "pl": "Czy w tej sytuacji masz obowiązek zatrzymania się przed sygnalizatorem?",
+      "ua": "Чи зобов'язані Ви, в цій ситуації, зупинятися перед світлофором?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "a5b88f42a6.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 98 ust. 5"
+        ]
+      }
+    ],
+    "additionalDescription": "§ 98 ust. 5 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.) w zw. z Art. 7 ust. 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (t.j.: Dz. U. z 2012 r. poz. 1137, z późn. zm.)"
+  },
+  {
+    "id": 2353,
+    "questionNumber": 8328,
+    "question": {
+      "de": "Darf man in dieser Situation den Bahnübergang erst dann befahren, wenn man sich vergewissert hat, dass kein Schienenfahrzeug kommt?",
+      "eng": "Are you permitted, in this situation to enter the level crossing only after making sure that no rail vehicle is approaching?",
+      "pl": "Czy w tej sytuacji masz prawo wjechać na przejazd kolejowy dopiero po upewnieniu, że nie zbliża się pojazd szynowy?",
+      "ua": "Чи дозволяється Вам, в даній ситуації, в'їхати на залізничний переїзд лише після того, як Ви переконаєтеся, що не наближається залізничний транспорт?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "38960387ab.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "Art. 28 ust. 1"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 28 ust. 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137, z późn. zm.)"
+  },
+  {
+    "id": 2354,
+    "questionNumber": 8329,
+    "question": {
+      "de": "Soll man in dieser Situation besonders vorsichtig sein, das Fahrzeug anhalten und sich vergewissern, dass kein Schienenfahrzeug kommt?",
+      "eng": "In the situation presented. are you obliged to exercise special caution, stop the vehicle and make sure that no rail vehicle is approaching?",
+      "pl": "Czy w widocznej sytuacji masz obowiązek zachować szczególną ostrożność, zatrzymać pojazd oraz upewnić się czy nie nadjeżdża pojazd szynowy?",
+      "ua": "Чи, у цій ситуації, Ви повинні проявити особливу уважність, зупинитися і переконатися, що не наближається залізничний транспорт?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "9aa5088b39.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 28 ust."
+        ]
+      },
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 21 ust. 1 i 2 w zw. z ust. 4"
+        ]
+      }
+    ],
+    "additionalDescription": "Art. 3 ust. 1 i art. 28 ust. 1 oraz art. 5 ust. 1 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 i 1448) i § 21 ust. 1 i 2 w zw. z ust. 4 rozporządzenia Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych (Dz. U. Nr 170, poz. 1393, z późn. zm.)"
+  },
+  {
+    "id": 2355,
+    "questionNumber": 8333,
+    "question": {
+      "de": "Soll man beim Ankommen an einen Bahnübergang den Grundsatz der besonderen Vorsicht anwenden?",
+      "eng": "When approaching a level crossing, are you obliged to apply the principle of special caution?",
+      "pl": "Czy zbliżając się do przejazdu kolejowego masz obowiązek zastosować zasadę szczególnej ostrożności?",
+      "ua": "Чи зобов'язані Ви, наближаючись до залізничного переїзду, проявляти особливу обережність?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "65412dfdbd.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": "Art. 25 ust. 3 ustawy z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (t.j.: Dz. U. z 2012 r. poz. 1137, z późn. zm.)"
+  },
+  {
+    "id": 2522,
+    "questionNumber": 9362,
+    "question": {
+      "de": "Warnt Sie das präsentierte Zeichen vor dem kommenden Übergang über die Straßenbahnschienen?",
+      "eng": "Does the visible sign warn you of approaching a crossing that runs through tram tracks?",
+      "pl": "Czy widoczny znak ostrzega Cię, że zbliżasz się do przejazdu przez tory tramwajowe?",
+      "ua": "Чи попереджає Вас знак, який Ви бачите про те, що Ви наближаєтеся до переїзду через трамвайну колію?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "69a44a6fbb.mp4",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": "Rozporządzenie Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych. (Dz.U. 2002 nr 170 poz. 1393, z późn. zm.)"
+  },
+  {
+    "id": 2555,
+    "questionNumber": 9549,
+    "question": {
+      "de": "Soll man in dieser Situation bei der Ankunft an den Bahnübergang das Fahrzeug vor dem Schild STOP anhalten?",
+      "eng": "When approaching a level crossing in this situation, are you obliged to stop the vehicle before the STOP sign?",
+      "pl": "Czy w tej sytuacji, zbliżając się do przejazdu kolejowego, masz obowiązek zatrzymać pojazd przed znakiem STOP?",
+      "ua": "Чи зобов’язані Ви, у цій ситуації, наближаючись до залізничного переїзду, зупинити транспортний засіб перед знаком STOP?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "9accae197a.jpg",
+    "categories": [
+      "B",
+      "C",
+      "D",
+      "T",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 21 ust. 2 \n§ 78 ust. 5 pkt 1"
+        ]
+      }
+    ],
+    "additionalDescription": "§ 21 ust. 2 oraz § 78 ust. 5 pkt 1 Rozporządzenie Ministrów Infrastruktury oraz Spraw Wewnętrznych i Administracji z dnia 31 lipca 2002 r. w sprawie znaków i sygnałów drogowych z póżniejszymi zmianami."
+  },
+  {
+    "id": 2684,
+    "questionNumber": 10242,
+    "question": {
+      "de": "Dürfen Sie den Bahnübergang befahren, falls die Schranken noch nicht vollständig aufgemacht sind?",
+      "eng": "Are you allowed to enter a level crossing if the barriers have not been completely lifted?",
+      "pl": "Czy wolno Ci wjechać na przejazd kolejowy, jeżeli podnoszenie zapór nie zostało zakończone?",
+      "ua": "Чи дозволяється в'їзд на залізничний переїзд, якщо не завершено підняття шлагбаума?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "f9ee5d8812.mp4",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 2707,
+    "questionNumber": 10314,
+    "question": {
+      "de": "Sollen Sie in dieser Situation den Passagieren ermöglichen, aus einer an der Haltestelle angehaltenen Straßenbahn auszusteigen?",
+      "eng": "In this situation, are you obliged to allow passengers to exit the tram that stopped at the tram stop?",
+      "pl": "Czy w tej sytuacji masz obowiązek umożliwić pasażerom opuszczenie tramwaju, który zatrzymał się na przystanku?",
+      "ua": "Чи зобов’язані Ви, у цій ситуації, дати можливість пасажирам вийти з трамваю, який зупинився на зупинці?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "002475186e.mp4",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 2715,
+    "questionNumber": 10358,
+    "question": {
+      "de": "Soll man in dieser Situation besonders vorsichtig sein?",
+      "eng": "Should you exercise extreme caution in this situation?",
+      "pl": "Czy w tej sytuacji należy zachować szczególną ostrożność?",
+      "ua": "Чи потрібно бути особливо обережним у цій ситуації?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "4af291cef0.mp4",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 2994,
+    "questionNumber": 11046,
+    "question": {
+      "de": "Sie sind in geschlossener Ortschaft. Sollen Sie in dieser Situation dem Bus die Eingliederung in den Verkehr ermöglichen?",
+      "eng": "You are in a built-up area. Are you in this situation obliged to allow the bus driver to merge into the traffic?",
+      "pl": "Znajdujesz się w obszarze zabudowanym. Czy w tej sytuacji  jesteś zobowiązany umożliwić włączenie się do ruchu  kierującemu autobusem?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "95a500e6b0.mp4",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 2996,
+    "questionNumber": 11050,
+    "question": {
+      "de": "Sie sind in geschlossener Ortschaft. Sollen Sie Ihre Geschwindigkeit senken und gegebenfalls anhalten?",
+      "eng": "You are in a built-up area. Are you obliged in this situation to slow down and, if necessary, stop?",
+      "pl": "Znajdujesz się w obszarze zabudowanym. Czy w tej sytuacji jesteś zobowiązany\nzmniejszyć prędkość, a w razie potrzeby zatrzymać się?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "95a500e6b0.mp4",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 2997,
+    "questionNumber": 11055,
+    "question": {
+      "de": "Sie Sind in geschlossener Ortschaft. Haben Sie sich richtig verhalten, als Sie es dem Bus ermöglichten, sich in den Verkehr einzugliedern?",
+      "eng": "You are in a built-up area. Have you acted accordingly by allowing the bus driver to merge into traffic?",
+      "pl": "Znajdujesz się w obszarze zabudowanym. Czy zachowałeś się właściwie umożliwiając kierującemu autobusem włączenie się do ruchu?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "fae5c9e024.mp4",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3036,
+    "questionNumber": 11120,
+    "question": {
+      "de": "Sie sind in geschlossener Ortschaft. Sollen Sie in dieser Situation die Geschwindigkeit senken und gegebenfalls anhalten, um dem Bus die Eingliederung in den Verkehr zu ermöglichen?",
+      "eng": "You are in a built-up area. Are you obliged in this situation to slow down and, if necessary, stop to permit the bus driver to merge into traffic?",
+      "pl": "Znajdujesz się w obszarze zabudowanym. Czy w przedstawionej sytuacji jesteś zobowiązany zmniejszyć prędkość, a w razie potrzeby zatrzymać się, aby umożliwić kierującemu autobusem  włączenie się do ruchu?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "3b561085cc.mp4",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3037,
+    "questionNumber": 11122,
+    "question": {
+      "de": "Sie sind in geschlossener Ortschaft. Sollen Sie in dieser Situation dem Bus die Eingliederung in den Verkehr ermöglichen?",
+      "eng": "You are in a built-up area. Are you in this situation obliged to permit the bus driver to merge into the traffic?",
+      "pl": "Znajdujesz się w obszarze zabudowanym. Czy w tej sytuacji jesteś obowiązany umożliwić kierującemu autobusem włączenie się do ruchu?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "3b561085cc.mp4",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3039,
+    "questionNumber": 11124,
+    "question": {
+      "de": "Sie sind in geschlossener Ortschaft. Sollten Sie in dieser Situation dem Bus die Eingliederung in den Verkehr ermöglichen?",
+      "eng": "You are in a built-up area. Were you obliged in this situation to allow the bus driver to merge into traffic?",
+      "pl": "Znajdujesz się w obszarze zabudowanym. Czy w przedstawionej sytuacji byłeś obowiązany umożliwić kierującemu autobusem  włączenie się do ruchu?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "3b561085cc.mp4",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3043,
+    "questionNumber": 11128,
+    "question": {
+      "de": "Sollen Sie in dieser Situation vor dem Bahnübergang anhalten?",
+      "eng": "In this situation, are you obliged to stop the vehicle before the level crossing?",
+      "pl": "Czy w tej sytuacji masz obowiązek zatrzymania pojazdu przed przejazdem kolejowym?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "ff4d9d8454.mp4",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3044,
+    "questionNumber": 11129,
+    "question": {
+      "de": "Sollen Sie an folgendermaßen ausgeschildertem Bahnübergang besonders vorsichtig sein?",
+      "eng": "Are you obliged to exercise extreme caution at a level crossing marked as such?",
+      "pl": "Czy na tak oznakowanym przejeździe kolejowym jesteś zobowiązany zachować szczególną ostrożność?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "ff4d9d8454.mp4",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3045,
+    "questionNumber": 11130,
+    "question": {
+      "de": "Sollen Sie auf einem folgendermaßen ausgeschilderten Bahnübergang besonders vorsichtig sein?",
+      "eng": "Are you obliged to exercise extreme caution at a level crossing marked as such?",
+      "pl": "Czy na tak oznakowanym przejeździe kolejowym masz obowiązek zachowania szczególnej ostrożności?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "0db2981793.mp4",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3124,
+    "questionNumber": 11262,
+    "question": {
+      "de": "Sollen Sie in der Situation besonders vorsichtig sein?",
+      "eng": "In this situation, are you obliged to exercise extreme caution?",
+      "pl": "Czy w tej sytuacji masz obowiązek zachować szczególną ostrożność?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "0db2981793.mp4",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3125,
+    "questionNumber": 11264,
+    "question": {
+      "de": "Dürfen Sie in dieser Situation über den Bahnübergang ohne Anhalten fahren?",
+      "eng": "In this situation, can you drive through the level crossing without stopping?",
+      "pl": "Czy w przedstawionej sytuacji możesz przejechać przez przejazd kolejowy bez zatrzymania się?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "ff4d9d8454.mp4",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3126,
+    "questionNumber": 11265,
+    "question": {
+      "de": "Dürfen Sie über den Bahnübergang ohne Anhalten überfahren, wenn kein Zug kommt?",
+      "eng": "Can you drive through a level crossing without stopping if a train is not approaching?",
+      "pl": "Czy możesz przejechać przez przejazd kolejowy bez zatrzymania, jeśli nie nadjeżdża pociąg?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "e8e2c808c4.jpg",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3127,
+    "questionNumber": 11266,
+    "question": {
+      "de": "Sollen Sie sich beim Rechtsabbiegen vergewissern, dass kein Schienenfahrzeug kommt?",
+      "eng": "When turning right, are you obliged to make sure that no rail vehicle is approaching?",
+      "pl": "Czy skręcając w prawo masz obowiązek upewnić się, że nie nadjeżdża pojazd szynowy?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "07a9f402b0.jpg",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3128,
+    "questionNumber": 11268,
+    "question": {
+      "de": "Sollen Sie beim Rechtsabbiegen dem Schienenfahrzeug Vorrang gewähren?",
+      "eng": "When turning right, are you obliged to give priority to the rail vehicle?",
+      "pl": "Czy skręcając w prawo masz obowiązek ustąpić pierwszeństwa pojazdowi szynowemu?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "07a9f402b0.jpg",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3129,
+    "questionNumber": 11269,
+    "question": {
+      "de": "Sollen Sie vor diesem Übergang immer anhalten?",
+      "eng": "Are you always obliged to stop before this crossing?",
+      "pl": "Czy zawsze masz obowiązek zatrzymać się przed tym przejazdem?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "e8e2c808c4.jpg",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3130,
+    "questionNumber": 11270,
+    "question": {
+      "de": "Fahren Sie in dieser Situation auf einen mehrgleisigen Bahnübergang ein?",
+      "eng": "In this situation, are you driving into a multi-track level crossing?",
+      "pl": "Czy w przedstawionej sytuacji wjeżdżasz na przejazd kolejowy wielotorowy?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "e8e2c808c4.jpg",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3131,
+    "questionNumber": 11271,
+    "question": {
+      "de": "Kommen Sie in dieser Situation an einen eingleisigen Bahnübergang?",
+      "eng": "In the situation presented, are you arriving at a single-track crossing?",
+      "pl": "Czy w przedstawionej sytuacji dojeżdżasz do przejazdu kolejowego jednotorowego?",
+      "ua": ""
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "e8e2c808c4.jpg",
+    "categories": [
+      "AM"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3227,
+    "questionNumber": 12556,
+    "question": {
+      "de": "Ist das Parken direkt hinter dem Markpfahl verboten?",
+      "eng": "Is it prohibited to stop a vehicle directly behind a visible indicator post?",
+      "pl": "Czy postój pojazdu bezpośrednio za widocznym słupkiem wskaźnikowym jest zabroniony?",
+      "ua": "Чи заборонено паркувати автомобіль безпосередньо за знаком додаткового попередження, який Ви бачите?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "0f660a420f.mp4",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "ustawy prawo o ruchu drogowym",
+        "articles": [
+          "art. 49 ust.1 pkt 1",
+          "art. 49 ust. 2 pkt 3"
+        ]
+      }
+    ],
+    "additionalDescription": "art. 49 ust. 1 pkt 1 oraz ust. 2 pkt 3 ustawy z 20 czerwca 1997 roku Prawo o ruchu drogowym (Dz. U. z 2012 r. poz. 1137 ze zm.)"
+  },
+  {
+    "id": 3229,
+    "questionNumber": 12564,
+    "question": {
+      "de": "Sollen Sie in dieser Situation vor dem Bahnübergang anhalten?",
+      "eng": "In this situation, are you obliged to stop your vehicle before the level crossing?",
+      "pl": "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed przejazdem kolejowym?",
+      "ua": "Чи зобов'язані Ви, у цій ситуації, зупиняти транспортний засіб перед залізничним переїздом?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "fdc210525e.mp4",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3342,
+    "questionNumber": 13198,
+    "question": {
+      "de": "Sollen Sie hinter diesem Zeichen einen Bahnübergang ohne Ampeln erwarten?",
+      "eng": "Can you expect to see a level crossing without traffic lights beyond this sign?",
+      "pl": "Czy za tym znakiem możesz spodziewać się przejazdu kolejowego bez sygnalizacji świetlnej?",
+      "ua": "Чи можна очікувати після проїзду цього знака  залізничний переїзд без світлофора?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "4147fe38e7.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [
+      {
+        "name": "rozporządzenia w sprawie znaków i sygnałów drogowych",
+        "articles": [
+          "§ 6 ust. 2"
+        ]
+      }
+    ],
+    "additionalDescription": ""
+  },
+  {
+    "id": 3343,
+    "questionNumber": 13200,
+    "question": {
+      "de": "Falls das Fahrzeug auf dem Bahnübergang defekt wird, soll man es unmittelbar vom Bahnübergang entfernen?",
+      "eng": "If a vehicle becomes immobilised at a level crossing, should you remove it from the crossing immediately?",
+      "pl": "Czy w razie unieruchomienia pojazdu na przejeździe kolejowym należy niezwłocznie usunąć go z przejazdu?",
+      "ua": "Якщо транспортний засіб заглох на залізничному переїзді, чи потрібно його негайно прибрати з переїзду?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Tak",
+    "media": "ddfa0d591e.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": null,
+    "additionalDescription": ""
+  },
+  {
+    "id": 3388,
+    "questionNumber": 13426,
+    "question": {
+      "de": "Soll man in dieser Situation bei der Ankunft an einen Bahnübergang vor dem STOP-Schild anhalten?",
+      "eng": "Are you obliged to stop your vehicle before the STOP sign when approaching a level crossing in the presented situation?",
+      "pl": "Czy w tej sytuacji, zbliżając się do przejazdu kolejowego, masz obowiązek zatrzymać pojazd przed znakiem STOP?",
+      "ua": "Чи зобов’язані Ви, у цій ситуації, наближаючись до залізничного переїзду, зупинити транспортний засіб перед знаком STOP?"
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "B",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      },
+      {
+        "id": "C",
+        "text": {
+          "de": "",
+          "eng": "",
+          "pl": "",
+          "ua": ""
+        }
+      }
+    ],
+    "correctAnswer": "Nie",
+    "media": "214f0aee86.jpg",
+    "categories": [
+      "B"
+    ],
+    "type": "basic",
+    "points": 3,
+    "legalBasis": [],
+    "additionalDescription": ""
+  }
+]
